@@ -1,6 +1,7 @@
 import smtplib
 import os
 import logging
+import markdown
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
@@ -29,6 +30,9 @@ def send_email(md_content: str):
         return
 
     try:
+        # Convert markdown to HTML
+        html_content = markdown.markdown(md_content)
+
         # Create message
         msg = MIMEMultipart()
         msg["From"] = sender_email
@@ -36,8 +40,8 @@ def send_email(md_content: str):
         current_date = datetime.now().strftime("%Y-%m-%d")
         msg["Subject"] = f"[Daily Pulse] X 热门资讯 - {current_date}"
 
-        # Attach content
-        msg.attach(MIMEText(md_content, "plain"))
+        # Attach content as HTML
+        msg.attach(MIMEText(html_content, "html", "utf-8"))
 
         # Connect to server and send email
         server = smtplib.SMTP_SSL(smtp_server, smtp_port)

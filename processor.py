@@ -2,6 +2,9 @@ import os
 import logging
 from datetime import datetime
 from typing import List, Dict
+from deep_translator import GoogleTranslator
+
+translator = GoogleTranslator(source="auto", target="zh-CN")
 
 
 def generate_markdown(tweets: List[Dict]) -> str:
@@ -18,11 +21,28 @@ def generate_markdown(tweets: List[Dict]) -> str:
         date = tweet.get("date", "")
         likes = tweet.get("likes", 0)
         url = tweet.get("url", "")
+        images = tweet.get("images", [])
+
+        # Translate text
+        translated_text = text
+        try:
+            translated_text = translator.translate(text)
+        except Exception as e:
+            logging.warning(
+                f"Translation failed for tweet: {str(e)}, keeping original text"
+            )
+            translated_text = text  # Fallback to original text
 
         # Add section for each tweet
         md_content += f"### [{author}]({url})\n\n"
         md_content += f"**发布时间:** {date} | ❤️ {likes}\n\n"
         md_content += f"> {text}\n\n"
+        md_content += f"> 🇨🇳 译文：{translated_text}\n\n"
+
+        # Add images if any
+        for img_url in images:
+            md_content += f"![Image]({img_url})\n\n"
+
         md_content += "[🔗 查看原帖]({})\n\n".format(url)
 
         # Add separator except for the last tweet

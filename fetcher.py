@@ -74,6 +74,13 @@ def parse_tweets(json_data):
                             details = tweet_data.get("details", {})
                             counts = tweet_data.get("counts", {})
 
+                            # Extract images from media entities
+                            media_entities = tweet_data.get("media_entities", [])
+                            images = []
+                            for media in media_entities:
+                                if media.get("type") == "photo":
+                                    images.append(media.get("media_url_https", ""))
+
                             # Extract required fields
                             author = user_info.get("screen_name", "")
                             text = details.get("full_text", "")
@@ -104,6 +111,7 @@ def parse_tweets(json_data):
                                     "date": date,
                                     "likes": likes,
                                     "url": url,
+                                    "images": images,
                                 }
                                 tweets_list.append(tweet_info)
 
