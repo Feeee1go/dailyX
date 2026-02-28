@@ -2,14 +2,16 @@ import smtplib
 import os
 import logging
 import markdown
+import re
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from email.mime.image import MIMEImage
 from datetime import datetime
 
 
-def send_email(md_content: str):
+def send_email(md_content: str, local_images: list):
     """
-    Send email with markdown content
+    Send email with markdown content and embedded images
     """
     smtp_server = os.getenv("SMTP_SERVER") or ""
     smtp_port_str = os.getenv("SMTP_PORT") or ""
@@ -33,6 +35,14 @@ def send_email(md_content: str):
         # Convert markdown to HTML
         html_content = markdown.markdown(md_content)
 
+        # Replace image paths with CID references
+        for img_path in local_images:
+            filename = os.path.basename(img_path)
+            # Replace relative path format like "images/img_xxx.jpg" with cid reference
+            html_content = re.sub(
+                rf'src="[^"]*{filename}"', f'src="cid:{filename}"', html_content
+            )
+
         # Create message
         msg = MIMEMultipart()
         msg["From"] = sender_email
@@ -42,6 +52,15 @@ def send_email(md_content: str):
 
         # Attach content as HTML
         msg.attach(MIMEText(html_content, "html", "utf-8"))
+
+        # Attach images
+        for img_path in local_images:
+            filename = os.path.basename(img_path)
+            with open(img_path, "rb") as f:
+                img_data = f.read()
+            msg_image = MIMEImage(img_data)
+            msg_image.add_header("Content-ID", f"<{filename}>")
+            msg.attach(msg_image)
 
         # Connect to server and send email
         server = smtplib.SMTP_SSL(smtp_server, smtp_port)

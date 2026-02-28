@@ -74,12 +74,24 @@ def parse_tweets(json_data):
                             details = tweet_data.get("details", {})
                             counts = tweet_data.get("counts", {})
 
-                            # Extract images from media entities
-                            media_entities = tweet_data.get("media_entities", [])
+                            # 真实 JSON 结构提取逻辑
                             images = []
-                            for media in media_entities:
-                                if media.get("type") == "photo":
-                                    images.append(media.get("media_url_https", ""))
+                            # tweet_node 是包含 core, details, media_entities 等字段的层级
+                            media_entities = tweet_data.get("media_entities", [])
+                            if isinstance(media_entities, list):
+                                for media in media_entities:
+                                    try:
+                                        # 顺藤摸瓜提取 original_img_url
+                                        img_url = (
+                                            media.get("media_results", {})
+                                            .get("result", {})
+                                            .get("media_info", {})
+                                            .get("original_img_url")
+                                        )
+                                        if img_url:
+                                            images.append(img_url)
+                                    except Exception:
+                                        pass
 
                             # Extract required fields
                             author = user_info.get("screen_name", "")
