@@ -32,7 +32,7 @@ jobs:
       env:
         RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         RAPIDAPI_HOST: twitter241.p.rapidapi.com
-        SEARCH_BASE_QUERY: '(AI OR "artificial intelligence" OR LLM OR "machine learning" OR OpenAI OR ChatGPT OR GenAI OR tech OR technology OR cybersecurity OR software OR startup OR SaaS OR "Silicon Valley" OR finance OR economy OR crypto OR "stock market" OR investing OR "Wall Street" OR macroeconomics OR politics OR geopolitics OR "foreign policy" OR "international relations" OR diplomacy OR elections OR POTUS) min_faves:500'
+        SEARCH_BASE_QUERY: '(tech OR technology OR AI OR "artificial intelligence" OR software OR startup OR finance OR economy OR crypto OR "stock market" OR investing OR "Wall Street") min_faves:500'
         OBSIDIAN_DIR: './notes'
         SMTP_SERVER: smtp.qq.com
         SMTP_PORT: 465
