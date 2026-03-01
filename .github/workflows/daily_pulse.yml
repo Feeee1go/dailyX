@@ -34,7 +34,7 @@ jobs:
         RAPIDAPI_HOST: twitter241.p.rapidapi.com
         SEARCH_BASE_QUERY: '(tech OR technology OR AI OR "artificial intelligence" OR software OR startup OR finance OR economy OR crypto OR "stock market" OR investing OR "Wall Street") min_faves:500'
         OBSIDIAN_DIR: './notes'
-        SMTP_SERVER: smtp.qq.com
+        SMTP_SERVER: smtp.gmail.com
         SMTP_PORT: 465
         SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
         SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
