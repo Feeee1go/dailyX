@@ -2,7 +2,7 @@
 
 ### [MaxCrypto](https://twitter.com/MaxCrypto/status/2027684478584557696)
 
-**发布时间:** 2026-02-28 17:57:06 | ❤️ 99112
+**发布时间:** 2026-02-28 09:57:06 | ❤️ 144000
 
 > Day 59 of 2026: https://t.co/TqHgGMgpOW
 
@@ -12,151 +12,9 @@
 
 ---
 
-### [alifarhat79](https://twitter.com/alifarhat79/status/2027760809258934744)
-
-**发布时间:** 2026-02-28 23:00:25 | ❤️ 48179
-
-> The stock market waiting to open on Monday https://t.co/DMKeyqzYqM
-
-> 🇨🇳 译文：股市等待周一开盘 https://t.co/DMKeyqzYqM
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQNtaPX0AA_Ebf.jpg)
-
-[🔗 查看原帖](https://twitter.com/alifarhat79/status/2027760809258934744)
-
----
-
-### [Shararti_Ai](https://twitter.com/Shararti_Ai/status/2027786873033375887)
-
-**发布时间:** 2026-03-01 00:43:59 | ❤️ 1160
-
-> 🔥نَصْرٌ مِّنَ اللّٰهِ وَفَتْحٌ قَرِيبٌ🔥 https://t.co/t9mBuCnntH
-
-> 🇨🇳 译文：🔥 来自上帝的胜利和征服很快 🔥 https://t.co/t9mBuCnntH
-
-[🔗 查看原帖](https://twitter.com/Shararti_Ai/status/2027786873033375887)
-
----
-
-### [SenMarkKelly](https://twitter.com/SenMarkKelly/status/2027549889568100858)
-
-**发布时间:** 2026-02-28 09:02:18 | ❤️ 14167
-
-> Anthropic didn't want their AI tech used for surveillance on Americans or autonomous weapons strikes. Guess what the Trump administration did? Threatened them and then cut off all work with the federal government. This is dumb and dangerous. https://t.co/TwJjnmkG51
-
-> 🇨🇳 译文：Anthropic 不希望他们的人工智能技术用于监视美国人或自主武器袭击。猜猜特朗普政府做了什么？威胁他们，然后切断与联邦政府的所有合作。这是愚蠢且危险的。 https://t.co/TwJjnmkG51
-
-[🔗 查看原帖](https://twitter.com/SenMarkKelly/status/2027549889568100858)
-
----
-
-### [KateMillerGems](https://twitter.com/KateMillerGems/status/2027818270351306795)
-
-**发布时间:** 2026-03-01 02:48:45 | ❤️ 571
-
-> 🚀 Join the $IFNET Revolution!💎 #IFNET powers Interfin’s AI tools - driving automation, insights &amp; rewards in DeFi.
-💰 Earn BUSD rewards on BNB Chain.
-
-🌐 https://t.co/pl3BojqwX3
-🗨️ https://t.co/gTLdnJFJbb
-🐦 @interfin_cfd
-
-🥞https://t.co/CRoRkCrodm https://t.co/XTtauC8RwF
-
-> 🇨🇳 译文：🚀 加入 $IFNET 革命！💎 #IFNET 为 Interfin 的人工智能工具提供支持 - 推动自动化、洞察力和洞察力。 DeFi 中的奖励。
-💰 在BNB链上赚取BUSD奖励。
-
-🌐 https://t.co/pl3BojqwX3
-🗨️ https://t.co/gTLdnJFJbb
-🐦@interfin_cfd
-
-🥞https://t.co/CRoRkCrodm https://t.co/XTtauC8RwF
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCRB96faAAAC_-W.jpg)
-
-[🔗 查看原帖](https://twitter.com/KateMillerGems/status/2027818270351306795)
-
----
-
-### [Shararti_Ai](https://twitter.com/Shararti_Ai/status/2027789487913505202)
-
-**发布时间:** 2026-03-01 00:54:23 | ❤️ 1195
-
-> ہم سمجھتے رہے یہ مافیا عمران خان کو پسند نہیں کرتے اس لیے اُسے جیل سے باہر نہیں آنے دیتے مگر اب معلوم ہوا کہ عمران خان تو دراصل اسلام مخالف طاقتوں کو پہلے دن سے ہی کھٹکتا تھا ✌️🙏 https://t.co/q6ZwdvUK9J
-
-> 🇨🇳 译文：我们曾经知道这些黑手党不喜欢伊姆兰·汗，所以他们不让他出狱，但现在我们知道伊姆兰·汗实际上从第一天起就在击败反伊斯兰势力✌️🙏 https://t.co/q6Zw​​dvUK9J
-
-[🔗 查看原帖](https://twitter.com/Shararti_Ai/status/2027789487913505202)
-
----
-
-### [LifeNetwork_AI](https://twitter.com/LifeNetwork_AI/status/2027677802473132522)
-
-**发布时间:** 2026-02-28 17:30:35 | ❤️ 1636
-
-> 🩺 Community Question:
-Healthcare is a paradox: trillions spent and cutting-edge technology, why is humanity only getting sicker?
-
-Viewpoint A: The healthcare system is broken (reactive, wasteful, poorly coordinated).
-The system prioritizes treatment over prevention, carries https://t.co/v0CGV2EMTJ
-
-> 🇨🇳 译文：🩺 社区问题：
-医疗保健是一个悖论：花费数万亿美元和尖端技术，为什么人类的病情只会越来越严重？
-
-观点 A：医疗保健系统已被破坏（反应迟钝、浪费、协调不善）。
-该系统优先考虑治疗而非预防，载有 https://t.co/v0CGV2EMTJ
-
-[🔗 查看原帖](https://twitter.com/LifeNetwork_AI/status/2027677802473132522)
-
----
-
-### [CressFiles](https://twitter.com/CressFiles/status/2027776136835444991)
-
-**发布时间:** 2026-03-01 00:01:19 | ❤️ 1208
-
-> حرس الحدود السعودي: صوموا آمنين. https://t.co/1ScWcZH7ww
-
-> 🇨🇳 译文：沙特边防卫队：注意安全。 https://t.co/1ScWcZH7ww
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQbmdGXYAAvt7A.jpg)
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQbmeaW0AAk36E.jpg)
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQbmdCXsAAczXT.jpg)
-
-[🔗 查看原帖](https://twitter.com/CressFiles/status/2027776136835444991)
-
----
-
-### [perscuma](https://twitter.com/perscuma/status/2027712191085089050)
-
-**发布时间:** 2026-02-28 19:47:14 | ❤️ 684
-
-> IN THIS ECONOMY… WAJIB TAU INI SIH JADI IRIT PENGELUARAN DALAMAN‼️ https://t.co/Ld34BaHFmw
-
-> 🇨🇳 译文：在这个经济体...你必须知道这会影响你的内部支出‼️ https://t.co/Ld34BaHFmw
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCPhfPcbEAUJR63.jpg)
-
-[🔗 查看原帖](https://twitter.com/perscuma/status/2027712191085089050)
-
----
-
-### [Ronitper](https://twitter.com/Ronitper/status/2027747728730824914)
-
-**发布时间:** 2026-02-28 22:08:26 | ❤️ 22902
-
-> Warren Buffett watching the war with $380 Billion in cash https://t.co/V8123gE0sg
-
-> 🇨🇳 译文：沃伦·巴菲特带着 3800 亿美元现金观看战争 https://t.co/V8123gE0sg
-
-[🔗 查看原帖](https://twitter.com/Ronitper/status/2027747728730824914)
-
----
-
 ### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027820187115033029)
 
-**发布时间:** 2026-03-01 02:56:22 | ❤️ 3318
+**发布时间:** 2026-02-28 18:56:22 | ❤️ 36527
 
 > All over the world people have come out to celebrate Donald Trump striking Iran
 
@@ -178,49 +36,89 @@ Democrats and the media don’t want you to see this
 
 ---
 
-### [Shararti_Ai](https://twitter.com/Shararti_Ai/status/2027779085955698803)
+### [LifeNetwork_AI](https://twitter.com/LifeNetwork_AI/status/2027677802473132522)
 
-**发布时间:** 2026-03-01 00:13:03 | ❤️ 608
+**发布时间:** 2026-02-28 09:30:35 | ❤️ 2112
 
-> اُمت مسلمہ کا اصل شیر ایران ✌️🙏❤️ https://t.co/EvHeL9Ric3
+> 🩺 Community Question:
+Healthcare is a paradox: trillions spent and cutting-edge technology, why is humanity only getting sicker?
 
-> 🇨🇳 译文：✌️🙏❤️ https://t.co/EvHeL9Ric3
+Viewpoint A: The healthcare system is broken (reactive, wasteful, poorly coordinated).
+The system prioritizes treatment over prevention, carries https://t.co/v0CGV2EMTJ
 
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQeVAFaAAAbYh4.jpg)
+> 🇨🇳 译文：🩺 社区问题：
+医疗保健是一个悖论：花费数万亿美元和尖端技术，为什么人类的病情只会越来越严重？
 
-[🔗 查看原帖](https://twitter.com/Shararti_Ai/status/2027779085955698803)
+观点 A：医疗保健系统已被破坏（反应迟钝、浪费、协调不善）。
+该系统优先考虑治疗而非预防，载有 https://t.co/v0CGV2EMTJ
+
+[🔗 查看原帖](https://twitter.com/LifeNetwork_AI/status/2027677802473132522)
 
 ---
 
-### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027353019285930370)
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027874754481557680)
 
-**发布时间:** 2026-02-27 20:00:00 | ❤️ 15875
+**发布时间:** 2026-02-28 22:33:12 | ❤️ 9739
 
-> 🚨 Swing State Nevada has more votes than voters during multiple elections
+> EXPOSED 🚨 The “Hands Off Iran” protest taking place in Times Square; New York City right now is being organized by ‘The People’s Forum’
 
-- 2012 Election: 133,698 more votes than voters
-- 2016 Election: 126,490 more votes than voters
-- 2018 Election: 77,108 more votes than voters
-- 2020 Election: 40,437 more votes than voters
+The People’s Forum is a NGO that has received over $20 million dollars from a billionaire who lives in China with ties to the CCP
 
-“Treason” https://t.co/ID6GlUxIsH
+The NGOs https://t.co/P6aIWLr6io
 
-> 🇨🇳 译文：🚨 摇摆州内华达州在多次选举中得票数超过选民
+> 🇨🇳 译文：曝光🚨时代广场发生的“放手伊朗”抗议活动；纽约市现在正在由“人民论坛”组织
 
-- 2012 年选举：比选民多 133,698 票
-- 2016 年选举：比选民多 126,490 票
-- 2018 年选举：比选民多 77,108 票
-- 2020 年选举：比选民多 40,437 票
+人民论坛是一个非政府组织，从一位与中共有联系的中国亿万富翁那里获得了超过 2000 万美元的资金
 
-“叛国罪” https://t.co/ID6GlUxISH
+非政府组织 https://t.co/P6aIWLr6io
 
-[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027353019285930370)
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027874754481557680)
+
+---
+
+### [alifarhat79](https://twitter.com/alifarhat79/status/2027760809258934744)
+
+**发布时间:** 2026-02-28 15:00:25 | ❤️ 128015
+
+> The stock market waiting to open on Monday https://t.co/DMKeyqzYqM
+
+> 🇨🇳 译文：股市等待周一开盘 https://t.co/DMKeyqzYqM
+
+![Image](images/img_8e5cb1b6-2869-438c-8c24-a71b469100b4.jpg)
+
+[🔗 查看原帖](https://twitter.com/alifarhat79/status/2027760809258934744)
+
+---
+
+### [OHWallStreet](https://twitter.com/OHWallStreet/status/2027828387021017372)
+
+**发布时间:** 2026-02-28 19:28:57 | ❤️ 22127
+
+> https://t.co/Kkkly3cg8M
+
+> 🇨🇳 译文：https://t.co/Kkkly3cg8M
+
+![Image](images/img_7f42105e-f997-4956-b80b-296d8d13de27.jpg)
+
+[🔗 查看原帖](https://twitter.com/OHWallStreet/status/2027828387021017372)
+
+---
+
+### [SenMarkKelly](https://twitter.com/SenMarkKelly/status/2027549889568100858)
+
+**发布时间:** 2026-02-28 01:02:18 | ❤️ 15185
+
+> Anthropic didn't want their AI tech used for surveillance on Americans or autonomous weapons strikes. Guess what the Trump administration did? Threatened them and then cut off all work with the federal government. This is dumb and dangerous. https://t.co/TwJjnmkG51
+
+> 🇨🇳 译文：Anthropic 不希望他们的人工智能技术用于监视美国人或自主武器袭击。猜猜特朗普政府做了什么？威胁他们，然后切断与联邦政府的所有合作。这是愚蠢且危险的。 https://t.co/TwJjnmkG51
+
+[🔗 查看原帖](https://twitter.com/SenMarkKelly/status/2027549889568100858)
 
 ---
 
 ### [alifarhat79](https://twitter.com/alifarhat79/status/2027732971474555064)
 
-**发布时间:** 2026-02-28 21:09:48 | ❤️ 10186
+**发布时间:** 2026-02-28 13:09:48 | ❤️ 23683
 
 > Millennials living through 2 economic recessions, 9/11, a global pandemic, 8 stock market crashes, jobs replaced by AI, and WW3 before hitting 43
 https://t.co/fguOlKgHjO
@@ -232,135 +130,251 @@ https://t.co/fguOlKgHjO
 
 ---
 
-### [sina_builds](https://twitter.com/sina_builds/status/2027702720334074335)
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027618952738906503)
 
-**发布时间:** 2026-02-28 19:09:36 | ❤️ 506
+**发布时间:** 2026-02-28 05:36:44 | ❤️ 2038
 
-> The biggest wealth transfer of this decade won’t come from crypto.
+> Vote Red California
 
-It’ll come from AI.
+“In less than 2 years, California has lost 82,000 manufacturing jobs driven by high costs and state regulations”
 
-The only question is:
+‘Governor Gavin Newsom's 2026-27 budget proposal projects the loss of more than 50,000 manufacturing jobs over the next 4 years’ https://t.co/dvmCBlutEe
 
-Will you own part of it, or just use it?
+> 🇨🇳 译文：投票红色加州
 
-> 🇨🇳 译文：本十年最大的财富转移不会来自加密货币。
+“在不到两年的时间里，由于高成本和州法规的影响，加州失去了 82,000 个制造业工作岗位”
 
-它将来自人工智能。
+“州长加文·纽瑟姆 (Gavin Newsom) 的 2026-27 年度预算提案预计未来 4 年内将失去 50,000 多个制造业工作岗位” https://t.co/dvmCBlutEe
 
-唯一的问题是：
-
-您会拥有它的一部分，还是只是使用它？
-
-[🔗 查看原帖](https://twitter.com/sina_builds/status/2027702720334074335)
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027618952738906503)
 
 ---
 
-### [XFreeze](https://twitter.com/XFreeze/status/2027767109703352401)
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027906247895523359)
 
-**发布时间:** 2026-02-28 23:25:27 | ❤️ 687
+**发布时间:** 2026-03-01 00:38:20 | ❤️ 2196
 
-> Elon Musk shares his core philosophy on building world-class teams:
+> WOW 🚨 Make sure everyone sees this
 
-“If somebody gets things done, I love them. It’s pretty straightforward”
+NGO organizers caught on camera bringing in the protest signs for the “Hands Off Iran” protest in New York City
 
-He hires for four core traits:
-- Talent
-- Drive
-- Trustworthiness
-- Goodness of heart (he says he underweighted this at one point)
+The protest is again, PAID AND ORGANIZED
 
-“Are https://t.co/A16nLdUqWC
+These protests will ever stop until we lock up their funders
 
-> 🇨🇳 译文：埃隆·马斯克分享了他打造世界一流团队的核心理念：
+ https://t.co/VHNBLoeZMI
 
-“如果有人把事情做好，我就喜欢他们。这非常简单”
+> 🇨🇳 译文：哇🚨确保每个人都能看到这个
 
-他聘用具有四个核心特质的人：
-- 人才
-- 驾驶
-- 值得信赖
-- 善良的心（他说他一度低估了这一点）
+非政府组织组织者在纽约市带来“放手伊朗”抗议活动的抗议标语被镜头拍到
 
-“是 https://t.co/A16nLdUqWC
+抗议活动再次进行，有偿并有组织
 
-[🔗 查看原帖](https://twitter.com/XFreeze/status/2027767109703352401)
+这些抗议活动将永远停止，直到我们锁定他们的资助者
+
+ https://t.co/VHNBloeZMI
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027906247895523359)
 
 ---
 
-### [EmmanuelAfula](https://twitter.com/EmmanuelAfula/status/2027715801487175687)
+### [sithdaddyvlogs](https://twitter.com/sithdaddyvlogs/status/2027789638279303188)
 
-**发布时间:** 2026-02-28 20:01:34 | ❤️ 1885
+**发布时间:** 2026-02-28 16:54:58 | ❤️ 6659
 
-> Press Release with Tech Cabal!
+> Iranian Rhapsody 🎹🇺🇸🇮🇱🇮🇷
 
-Every great ecosystem starts with a simple belief: people deserve better financial access. What we’re building is bigger than a wallet — it’s infrastructure for the next generation of global finance. https://t.co/SnWwMaCGr8
+Trump is on fire here. Political satire meets cinematic AI music.
 
-> 🇨🇳 译文：与 Tech Cabal 的新闻稿！
+Created with @replicate using their Prune AI, which makes generating audio2video so much easier. https://t.co/JHSeT8S8O1
 
-每个伟大的生态系统都始于一个简单的信念：人们应该获得更好的金融服务。我们正在构建的不仅仅是钱包——它是下一代全球金融的基础设施。 https://t.co/SnWwMaCGr8
+> 🇨🇳 译文：伊朗狂想曲🎹🇺🇸🇮🇱🇮🇷
 
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCPkxUNbEA0mK5_.jpg)
+特朗普在这里火了。政治讽刺与电影人工智能音乐的结合。
 
-[🔗 查看原帖](https://twitter.com/EmmanuelAfula/status/2027715801487175687)
+使用 @replicate 使用 Prune AI 创建，这使得生成音频到视频变得更加容易。 https://t.co/JHSeT8S8O1
 
----
-
-### [narendramodi](https://twitter.com/narendramodi/status/2027786563766390892)
-
-**发布时间:** 2026-03-01 00:42:45 | ❤️ 28985
-
-> A proud day for India! 
-
-Micron Technology’s Semiconductor ATMP facility was inaugurated in Sanand earlier today. 
-
-Here are some glimpses from the occasion…
-
-@MicronTech 
-
-@MicronCEO https://t.co/y4vrYEMhdy
-
-> 🇨🇳 译文：印度值得骄傲的一天！ 
-
-美光科技的半导体 ATMP 工厂今天早些时候在萨南德落成。 
-
-以下是这次活动的一些亮点……
-
-@MicronTech 
-
-@MicronCEO https://t.co/y4vrYEMhdy
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQkQhfbEAInsG_.jpg)
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQkRG4bEAI-33g.jpg)
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQkRybawAA2Rir.jpg)
-
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQkS1fbEAEb8n6.jpg)
-
-[🔗 查看原帖](https://twitter.com/narendramodi/status/2027786563766390892)
+[🔗 查看原帖](https://twitter.com/sithdaddyvlogs/status/2027789638279303188)
 
 ---
 
-### [pan_LnN](https://twitter.com/pan_LnN/status/2027747609981730961)
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027870482691969475)
 
-**发布时间:** 2026-02-28 22:07:58 | ❤️ 1995
+**发布时间:** 2026-02-28 22:16:13 | ❤️ 4967
 
-> iOS로 외국어 모바겜하는데 실시간 화면 번역하고 싶다: iTranscreen !!
+> California resident is upset because she’s required by law to have health insurance, but she shows how much it would cost for her
 
-사용하는 거 화녹이 안 돼서 아재식 화녹했는데 컴 연결해서 하는 것보다 5억배 정도 편합니다
+Then plans she can pick from are roughly $2,600-$4,700 per month and still have high deductibles
 
-게임 말고도 만화 모드도 있어요!!! https://t.co/hdgK9F7RtX
+She can’t afford this. Illegals get this for free https://t.co/Dja7C6gzU4
 
-> 🇨🇳 译文：我在iOS上玩外语手游，想要实时翻译屏幕：iTranscreen！！
+> 🇨🇳 译文：加州居民很沮丧，因为法律要求她必须拥有健康保险，但她展示了这会给她带来多少费用
 
-我用的不行，就用我爸爸的方法记录下来。比连接电脑方便约5亿倍。
+那么她可以选择的计划大约是每月 2,600 美元至 4,700 美元，并且免赔额仍然很高
 
-除了游戏之外，还有卡通模式！！！ https://t.co/hdgK9F7RtX
+她负担不起这个。非法者免费获得此 https://t.co/Dja7C6gzU4
 
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQBpvbbEAcqWCi.jpg)
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027870482691969475)
 
-![Image](https://wsrv.nl/?url=pbs.twimg.com/media/HCQBpvcbEAAyrOU.jpg)
+---
 
-[🔗 查看原帖](https://twitter.com/pan_LnN/status/2027747609981730961)
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027893477162525097)
+
+**发布时间:** 2026-02-28 23:47:36 | ❤️ 4883
+
+> 2 Identical Protests:
+
+LEFT) The “Hands Off Venezuela” protest in New York City
+
+RIGHT) The “Hands Off Iran” protest happening now in New York City
+
+Exact same signs. Exact same chant
+
+Both these protests are funded and organized by the NGO ‘The People’s Forum’
+
+The People’s https://t.co/hWzz4jY2bR
+
+> 🇨🇳 译文：2 相同的抗议：
+
+左）纽约市的“放手委内瑞拉”抗议活动
+
+右）纽约市正在发生的“放手伊朗”抗议活动
+
+完全相同的迹象。完全一样的口号
+
+这两次抗议活动均由非政府组织“人民论坛”资助和组织
+
+人民的 https://t.co/hWzz4jY2bR
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027893477162525097)
+
+---
+
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027570657102573983)
+
+**发布时间:** 2026-02-28 02:24:49 | ❤️ 3191
+
+> Joe Biden announces
+
+- Border crossing were lower under Biden than under Trump
+- He shut down the border
+- He had the strongest economy in the world
+- Under Biden he says Democrats took down Big Pharma and lowered drug prices
+
+“Folks after fighting tooth and nail for a year and a https://t.co/a8z9q5jibn
+
+> 🇨🇳 译文：乔·拜登宣布
+
+- 拜登领导下的过境率低于特朗普领导下的
+- 他关闭了边境
+- 他拥有世界上最强劲的经济
+- 在拜登领导下，他说民主党拿下了大型制药公司并降低了药品价格
+
+“人们在奋力拼搏一年之后，终于迎来了 https://t.co/a8z9q5jibn
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027570657102573983)
+
+---
+
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027839530573959383)
+
+**发布时间:** 2026-02-28 20:13:14 | ❤️ 5320
+
+> Liberal are protesting Donald Trump outside the White House for his strike on Iran
+
+Liberals are now defending an Islamic Dictator regime that chants “Death to America”
+
+Notice the signs? Those are the EXACT SAME style protest signs used in other protests
+https://t.co/MLaGbiX8He
+
+> 🇨🇳 译文：自由党在白宫外抗议唐纳德·特朗普对伊朗的袭击
+
+自由主义者现在正在捍卫高呼“美国去死”的伊斯兰独裁政权
+
+注意到这些标志了吗？这些与其他抗议活动中使用的抗议标志完全相同
+https://t.co/MLaGbiX8He
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027839530573959383)
+
+---
+
+### [AmitShah](https://twitter.com/AmitShah/status/2027816658807804120)
+
+**发布时间:** 2026-02-28 18:42:21 | ❤️ 1361
+
+> Pivotal step for Gujarat, giant leap for Bharat.
+
+Congratulations every citizen on inauguration of Micron Technology’s semiconductor ATMP facility in Sanand. It will invigorate Modi Ji’s vision of India emerging as world’s tech shop by tapping into our flourishing talent pool. https://t.co/I0HHRAuoj6
+
+> 🇨🇳 译文：古吉拉特邦的关键一步，巴拉特邦的巨大飞跃。
+
+祝贺每一位公民参加美光科技位于萨南德的半导体 ATMP 工厂的落成典礼。它将激发莫迪的愿景，即通过利用我们蓬勃发展的人才库，使印度成为世界科技中心。 https://t.co/I0HHRAuoj6
+
+![Image](images/img_1e9ed3e5-9097-418d-86c2-0fe86db47fa3.jpg)
+
+![Image](images/img_211a43b3-7a75-496a-86d6-02f298a9c55f.jpg)
+
+![Image](images/img_47c520f3-1f31-4114-b407-024753b4fa23.jpg)
+
+![Image](images/img_15b2c1aa-96a5-45e4-ab24-d684b929b84f.jpg)
+
+[🔗 查看原帖](https://twitter.com/AmitShah/status/2027816658807804120)
+
+---
+
+### [WallStreetMav](https://twitter.com/WallStreetMav/status/2027723040281223225)
+
+**发布时间:** 2026-02-28 12:30:20 | ❤️ 5220
+
+> France 🇫🇷  has agreed to an unconditional surrender. https://t.co/zhuyHf6vRv
+
+> 🇨🇳 译文：法国🇫🇷已同意无条件投降。 https://t.co/zhuyHf6vRv
+
+![Image](images/img_9985b7b8-c3ca-40d6-b26e-7cbe37ca2b8a.jpg)
+
+[🔗 查看原帖](https://twitter.com/WallStreetMav/status/2027723040281223225)
+
+---
+
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027779332194930692)
+
+**发布时间:** 2026-02-28 16:14:01 | ❤️ 1660
+
+> Donald Trump says the attack against Iran is liberating the people from the Islamic government of Iran
+
+“All I want is freedom for the PEOPLE. I want a safe nation, and that's what we're going to have."
+
+Thousands have been protesting strict Sharia Law
+
+ https://t.co/oWiUpvFmPo
+
+> 🇨🇳 译文：唐纳德·特朗普表示，针对伊朗的袭击正在将人民从伊朗伊斯兰政府手中解放出来
+
+“我想要的只是人民的自由。我想要一个安全的国家，这就是我们将要拥有的。”
+
+数千人抗议严格的伊斯兰教法
+
+ https://t.co/oWiUpvFmPo
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027779332194930692)
+
+---
+
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027886860358586790)
+
+**发布时间:** 2026-02-28 23:21:18 | ❤️ 4232
+
+> Barack Obama gave $1.7 billion dollars, delivered in cash, to Iran
+
+“Before Obama left office, he sent $1.7 billion in cash to Iran. The money was delivered in actual cash stacked on pallets and flown into the country”
+
+“It happened in January, 2016 when Obama authorized the https://t.co/HnQYHUK16o
+
+> 🇨🇳 译文：巴拉克·奥巴马 (Barack Obama) 向伊朗捐赠了 17 亿美元现金
+
+“奥巴马离任前，他向伊朗发送了 17 亿美元现金。这些钱是以堆放在托盘上的实际现金形式运送并空运到该国的。”
+
+“事情发生在 2016 年 1 月，当时奥巴马授权 https://t.co/HnQYHUK16o
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027886860358586790)
 
