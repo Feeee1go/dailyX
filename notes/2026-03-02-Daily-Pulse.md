@@ -1,210 +1,36 @@
 # Daily Pulse - 2026-03-02
 
-### [AO3_Status](https://twitter.com/AO3_Status/status/2028243250453074358)
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027906247895523359)
 
-**发布时间:** 2026-03-01 22:57:28 | ❤️ 43165
+**发布时间:** 2026-03-01 00:38:20 | ❤️ 88122
 
-> We've identified the problem and are working on a fix. We expect to remain down for several more hours. We apologize for the inconvenience and appreciate your patience! Refer to https://t.co/DzB49JzjDf for more information.
+> WOW 🚨 Make sure everyone sees this
 
-> 🇨🇳 译文：我们已经确定了问题并正在努力解决。我们预计还会持续几个小时。对于给您带来的不便，我们深表歉意，并感谢您的耐心等待！请参阅 https://t.co/DzB49JzjDf 了解更多信息。
+NGO organizers caught on camera bringing in the protest signs for the “Hands Off Iran” protest in New York City
 
-[🔗 查看原帖](https://twitter.com/AO3_Status/status/2028243250453074358)
+The protest is again, PAID AND ORGANIZED
 
----
+These protests will ever stop until we lock up their funders
 
-### [AO3_Status](https://twitter.com/AO3_Status/status/2028194172725776406)
+ https://t.co/VHNBLoeZMI
 
-**发布时间:** 2026-03-01 19:42:27 | ❤️ 25415
+> 🇨🇳 译文：哇🚨确保每个人都能看到这个
 
-> We are continuing to investigate reports of slowness and errors when trying to load AO3, including errors saying that AO3 is down. Refer to our status page for more information: https://t.co/1Fxip5Mm2F
+非政府组织组织者在纽约市带来“放手伊朗”抗议活动的抗议标语被镜头拍到
 
-> 🇨🇳 译文：我们正在继续调查有关尝试加载 AO3 时速度缓慢和错误的报告，包括表示 AO3 已关闭的错误。请参阅我们的状态页面了解更多信息：https://t.co/1Fxip5Mm2F
+抗议活动再次进行，有偿并有组织
 
-[🔗 查看原帖](https://twitter.com/AO3_Status/status/2028194172725776406)
+这些抗议活动将永远停止，直到我们锁定他们的资助者
 
----
+ https://t.co/VHNBloeZMI
 
-### [IndianTechGuide](https://twitter.com/IndianTechGuide/status/2028089146636747035)
-
-**发布时间:** 2026-03-01 12:45:07 | ❤️ 2446
-
-> 🚨 A school girl in Uttar Pradesh lost her life in this gruesome manner. 
-
-Why are these buses still in service? 🙏 https://t.co/crYuzXQ18r
-
-> 🇨🇳 译文：🚨 北方邦的一名女学生以这种可怕的方式丧生。 
-
-为什么这些公交车仍在运营？ 🙏 https://t.co/crYuzXQ18r
-
-[🔗 查看原帖](https://twitter.com/IndianTechGuide/status/2028089146636747035)
-
----
-
-### [AJEnglish](https://twitter.com/AJEnglish/status/2028214946530750501)
-
-**发布时间:** 2026-03-01 21:05:00 | ❤️ 1161
-
-> A day before the US attacked Iran, it had blacklisted AI company Anthropic. It then reportedly used Anthropic’s technology in its military operation in Iran.
-
-Al Jazeera’s Linh Nguyen explains the dispute between the Pentagon and Anthropic over how AI should be used in warfare. https://t.co/mFvU0zF7yU
-
-> 🇨🇳 译文：美国袭击伊朗的前一天，将人工智能公司 Anthropic 列入黑名单。据报道，该公司随后在伊朗的军事行动中使用了 Anthropic 的技术。
-
-半岛电视台的 Linh Nguyen 解释了五角大楼和 Anthropic 之间关于人工智能应如何在战争中使用的争论。 https://t.co/mFvU0zF7yU
-
-[🔗 查看原帖](https://twitter.com/AJEnglish/status/2028214946530750501)
-
----
-
-### [AshCrypto](https://twitter.com/AshCrypto/status/2028119582725358053)
-
-**发布时间:** 2026-03-01 14:46:03 | ❤️ 6692
-
-> THIS IS CRAZY!!
-
-🇮🇷🇺🇸 Iran just released footage of shooting down a $30 MILLION US MQ-9 Reaper. https://t.co/2mUhqj5wKJ
-
-> 🇨🇳 译文：这太疯狂了！
-
-🇮🇷🇺🇸 伊朗刚刚发布了击落一架价值 3000 万美元的美国 MQ-9 Reaper 的镜头。 https://t.co/2mUhqj5wKJ
-
-[🔗 查看原帖](https://twitter.com/AshCrypto/status/2028119582725358053)
-
----
-
-### [heynavtoor](https://twitter.com/heynavtoor/status/2028025232532120000)
-
-**发布时间:** 2026-03-01 08:31:08 | ❤️ 7921
-
-> BREAKING: AI can now analyze stocks like Wall Street analysts (for free).
-
-Here are 10 insane Claude prompts that replace $2,000/month Bloomberg terminals (Save for later) https://t.co/vnybsoVtWE
-
-> 🇨🇳 译文：突发事件：人工智能现在可以像华尔街分析师一样分析股票（免费）。
-
-这里有 10 个疯狂的克劳德提示，可以取代每月 2,000 美元的彭博终端（留到以后使用）https://t.co/vnybsoVtWE
-
-![Image](images/img_6dec1f2e-b733-4544-8069-cf96d6444b96.png)
-
-[🔗 查看原帖](https://twitter.com/heynavtoor/status/2028025232532120000)
-
----
-
-### [elonmusk](https://twitter.com/elonmusk/status/2028212819603107966)
-
-**发布时间:** 2026-03-01 20:56:33 | ❤️ 15288
-
-> Grok Imagine
-
-> 🇨🇳 译文：格洛克想象
-
-[🔗 查看原帖](https://twitter.com/elonmusk/status/2028212819603107966)
-
----
-
-### [elonmusk](https://twitter.com/elonmusk/status/2028208773400035685)
-
-**发布时间:** 2026-03-01 20:40:28 | ❤️ 64244
-
-> If ethnicity exists at all, which it obviously does, then English is an ethnicity. 
-
-This is a simple statement of fact. It is possible to be culturally English or French or Japanese, etc, but ethnically be different. The first is “software”, the other is “hardware”.
-
-This should
-
-> 🇨🇳 译文：如果种族确实存在（显然确实如此），那么英语就是一个种族。 
-
-这是一个简单的事实陈述。文化上可能是英国人、法国人、日本人等，但种族上可能不同。第一个是“软件”，第二个是“硬件”。
-
-这应该
-
-[🔗 查看原帖](https://twitter.com/elonmusk/status/2028208773400035685)
-
----
-
-### [RupertLowe10](https://twitter.com/RupertLowe10/status/2028171836932882488)
-
-**发布时间:** 2026-03-01 18:13:42 | ❤️ 39625
-
-> If I moved to Japan, and lived in Japan for decades, speaking the language, integrating into society, contributing to the economy. Would I be ethnically Japanese? No. No I would not. I would never pretend to be. Nor would that apply to India, Thailand, Mexico, Denmark or anywhere
-
-> 🇨🇳 译文：如果我搬到日本，在日本生活了几十年，说着日本的语言，融入了社会，为经济做出了贡献。我会是日本人吗？不，不，我不会。我永远不会假装是。这也不适用于印度、泰国、墨西哥、丹麦或任何地方
-
-[🔗 查看原帖](https://twitter.com/RupertLowe10/status/2028171836932882488)
-
----
-
-### [AshCrypto](https://twitter.com/AshCrypto/status/2028218915088916661)
-
-**发布时间:** 2026-03-01 21:20:46 | ❤️ 1917
-
-> 🇺🇸 President Trump just posted this !!
-
-“I urge IRGC, Iranian military to lay down your arms or face certain death.”
-
-“The U.S. will avenge the deaths of Americans.” https://t.co/bJYWJBI3ad
-
-> 🇨🇳 译文：🇺🇸特朗普总统刚刚发布了这个！
-
-“我敦促伊朗伊斯兰革命卫队和伊朗军队放下武器，否则必死无疑。”
-
-“美国将为美国人的死亡报仇。” https://t.co/bJYWJBI3ad
-
-[🔗 查看原帖](https://twitter.com/AshCrypto/status/2028218915088916661)
-
----
-
-### [naval](https://twitter.com/naval/status/2027981651012473197)
-
-**发布时间:** 2026-03-01 05:37:58 | ❤️ 21063
-
-> Pure software is rapidly becoming un-investable.
-
-> 🇨🇳 译文：纯软件正迅速变得不值得投资。
-
-[🔗 查看原帖](https://twitter.com/naval/status/2027981651012473197)
-
----
-
-### [CryptoWhale](https://twitter.com/CryptoWhale/status/2027900829919854780)
-
-**发布时间:** 2026-03-01 00:16:49 | ❤️ 123308
-
-> You’re probably worried, so I want to quickly let you know that Netanyahu’s son and his wife are safe in Miami. They’re just getting ready for breakfast. https://t.co/chLdg8KMdk
-
-> 🇨🇳 译文：您可能很担心，所以我想尽快让您知道内塔尼亚胡的儿子和他的妻子在迈阿密很安全。他们正准备吃早餐。 https://t.co/chLdg8KMdk
-
-![Image](images/img_a2e7a1d7-07dd-4e79-b6ec-2a26b9c96537.jpg)
-
-![Image](images/img_9a3fb208-76b4-43da-93b9-d893cd9f04de.jpg)
-
-[🔗 查看原帖](https://twitter.com/CryptoWhale/status/2027900829919854780)
-
----
-
-### [WallStreetApes](https://twitter.com/WallStreetApes/status/2028115541362118746)
-
-**发布时间:** 2026-03-01 14:30:00 | ❤️ 9917
-
-> American show what his local Krispy Kreme donuts does to their unsold donuts at the end of the night
-
-Since being bought by a private equity firm Krispy Kreme has gradually raised the price of a dozen donuts to as much as $22 in some cities
-
-Instead of selling at lower prices. https://t.co/OlfhNIoy35
-
-> 🇨🇳 译文：美国人展示当地的 Krispy Kreme 甜甜圈如何在深夜处理未售出的甜甜圈
-
-自从被私募股权公司 Krispy Kreme 收购后，在一些城市，十几个甜甜圈的价格逐渐提高到了 22 美元。
-
-而不是以较低的价格出售。 https://t.co/OlfhNIoy35
-
-[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2028115541362118746)
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027906247895523359)
 
 ---
 
 ### [TruthTrumpPost](https://twitter.com/TruthTrumpPost/status/2028175940908425414)
 
-**发布时间:** 2026-03-01 18:30:00 | ❤️ 18937
+**发布时间:** 2026-03-01 18:30:00 | ❤️ 30403
 
 > JUST IN: 🇮🇷🇺🇸Reza Pahlavi — “We hope to bring over a trillion dollars in revenue to the American economy simply by opening Iran’s market to the United States.” https://t.co/Uwzfk35Vvd
 
@@ -214,83 +40,363 @@ Instead of selling at lower prices. https://t.co/OlfhNIoy35
 
 ---
 
-### [elonmusk](https://twitter.com/elonmusk/status/2028207068537041300)
+### [barkmeta](https://twitter.com/barkmeta/status/2028141545791095069)
 
-**发布时间:** 2026-03-01 20:33:42 | ❤️ 9226
+**发布时间:** 2026-03-01 16:13:20 | ❤️ 35082
 
-> @ApoStructura 1. Drones were a major factor in this attack.
+> Golden age update:
 
-2. Long-range drones and hypersonic missiles will be the only weapons that matter when not fighting an opponent several tech levels below you. Aircraft with people in them will unfortunately die very quickly.
+• WW3
+• Crypto down 90%
+• AI taking your job
+• No Epstein lists arrest
+• Groceries at record prices
+• Can’t buy a house
 
-> 🇨🇳 译文：@ApoStructura 1. 无人机是这次攻击的主要因素。
+Are you tired of winning yet? https://t.co/K1StglVwln
 
-2. 在与技术水平比你低几个级别的对手作战时，远程无人机和高超音速导弹将是唯一重要的武器。不幸的是，载人的飞机很快就会死亡。
+> 🇨🇳 译文：黄金时代更新：
 
-[🔗 查看原帖](https://twitter.com/elonmusk/status/2028207068537041300)
+• 第三次世界大战
+• 加密货币下跌 90%
+• 人工智能取代你的工作
+• 爱泼斯坦没有列出逮捕名单
+• 杂货价格创历史新高
+• 买不起房子
 
----
+你厌倦了胜利吗？ https://t.co/K1StglVwln
 
-### [boringcompany](https://twitter.com/boringcompany/status/2028246037903585663)
-
-**发布时间:** 2026-03-01 23:08:33 | ❤️ 1083
-
-> Nashville, we’re digging - let’s celebrate! 
-
-For those Tennesseans who are in Las Vegas in March, you can ride Vegas Loop for FREE. 
-
-No ticket needed—just show your valid TN driver’s license to any station attendant and hop in!
-
-> 🇨🇳 译文：纳什维尔，我们正在挖掘——让我们庆祝一下！ 
-
-对于三月份在拉斯维加斯的田纳西州人，您可以免费乘坐维加斯环线。 
-
-无需门票 - 只需向车站工作人员出示您有效的田纳西州驾驶执照即可上车！
-
-[🔗 查看原帖](https://twitter.com/boringcompany/status/2028246037903585663)
+[🔗 查看原帖](https://twitter.com/barkmeta/status/2028141545791095069)
 
 ---
 
-### [HustleBitch_](https://twitter.com/HustleBitch_/status/2028128348510048707)
+### [docomo](https://twitter.com/docomo/status/2028387332869484571)
 
-**发布时间:** 2026-03-01 15:20:53 | ❤️ 5265
+**发布时间:** 2026-03-02 08:30:00 | ❤️ 2907
 
-> 🚨 NASA ASTRONAUT ADMITS WE “DESTROYED” THE TECHNOLOGY USED TO GO TO THE MOON — AND CAN’T FIND THE ORIGINAL DATA
+> ⋰
+カメラが進化した
+#SamsungGalaxyS26Ultra で撮影❣️
+⋱
 
-In old resurfaced footage, NASA astronaut Dan Pettit says:
+ドコモの #GalaxywithME_I 第5弾CM放映中！
 
-“I’d go to the Moon in a nanosecond. The problem is we don’t have the technology to do that anymore. We https://t.co/TTKjWmXprA
+ヴィラで思い思いに過ごす #ME_I メンバーのオフショットを公開✨️
 
-> 🇨🇳 译文：🚨 美国宇航局宇航员承认我们“摧毁”了用于登月的技术 - 并且无法找到原始数据
+#SUZU さんと #TSUZUMI さんは巨大ぬいぐるみに夢中な様子…🐻
 
-在旧的重新出现的镜头中，美国宇航局宇航员丹·佩蒂特说：
+Samsung Galaxy S26 Ultra予約受付中！
 
-“我会在一纳秒内到达月球。问题是我们不再拥有做到这一点的技术。我们 https://t.co/TTKjWmXprA
+#ME_I_Best_Match https://t.co/5iZGTpq0PJ
 
-[🔗 查看原帖](https://twitter.com/HustleBitch_/status/2028128348510048707)
+> 🇨🇳 译文：⋰
+相机已经进化了
+与#SamsungGalaxyS26Ultra❣️一起拍摄
+⋱
+
+Docomo 的 #GalaxywithME_I 第 5 个广告现已播出！
+
+#ME_I成员在别墅度过时光的外景已公开✨️
+
+#SUZU 和 #TSUZUMI 似乎对巨型毛绒动物很着迷......🐻
+
+三星 Galaxy S26 Ultra 现已接受预订！
+
+#ME_I_Best_Match https://t.co/5iZGTpq0PJ
+
+![Image](images/img_850911d6-c455-41b4-8bec-2d0bd02fa49c.jpg)
+
+![Image](images/img_5049e1ff-e534-43b8-b578-23e34a36e39d.jpg)
+
+[🔗 查看原帖](https://twitter.com/docomo/status/2028387332869484571)
 
 ---
 
-### [musadosmeme](https://twitter.com/musadosmeme/status/2028183077952913649)
+### [openclaw](https://twitter.com/openclaw/status/2028347703621464481)
 
-**发布时间:** 2026-03-01 18:58:22 | ❤️ 15212
+**发布时间:** 2026-03-02 05:52:32 | ❤️ 5811
 
-> O iPhone é caro, mas também é o único celular que dura pelo menos 5 anos sem apresentar defeitos, e não vou discutir isso. 👍
+> We just passed React on GitHub stars. 🦞
 
-> 🇨🇳 译文：iPhone 很贵，但它也是唯一一款可以使用至少 5 年且没有任何缺陷的手机，我不会对此争论。 👍
+Let that sink in. A personal AI assistant built by a lobster-obsessed Austrian and an army of crustacean enthusiasts just outstarred the library that powers half the internet.
 
-[🔗 查看原帖](https://twitter.com/musadosmeme/status/2028183077952913649)
+We shipped 90+ changes today. They shipped a conference. https://t.co/dC8EWo8yN7
+
+> 🇨🇳 译文：我们刚刚在 GitHub star 上通过了 React。 🦞
+
+让我们理解这一点。由一位痴迷于龙虾的奥地利人和一群甲壳类动物爱好者建造的个人人工智能助理刚刚超越了为半个互联网提供动力的图书馆。
+
+今天我们发布了 90 多项更改。他们举办了一次会议。 https://t.co/dC8EWo8yN7
+
+![Image](images/img_a98d80a9-c365-48da-aa17-a47a29492170.jpg)
+
+[🔗 查看原帖](https://twitter.com/openclaw/status/2028347703621464481)
 
 ---
 
-### [wallstwolverine](https://twitter.com/wallstwolverine/status/2028174097574682684)
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2028176444481008094)
 
-**发布时间:** 2026-03-01 18:22:41 | ❤️ 2482
+**发布时间:** 2026-03-01 18:32:00 | ❤️ 25181
 
-> Agreden a Rescue You en la manifestación contra Estados Unidos e Israel.
- https://t.co/HVjrNI4dXY
+> The shooter in Texas is Ndiaga Diagne. A Jihadist immigrant found with a Quran in his vehicle
+⠀
+Charlie Kirk warned about Islam in America
 
-> 🇨🇳 译文：“救援你”组织在反对美国和以色列的示威活动中遭到袭击。
- https://t.co/HVjrNI4dXY
+We even have rooms full of Muslims in America chanting "Allah Akbar!" and “Death to America!”
 
-[🔗 查看原帖](https://twitter.com/wallstwolverine/status/2028174097574682684)
+Islam is a National Security threat https://t.co/bbi4GhCi6r
+
+> 🇨🇳 译文：德克萨斯州的枪手是恩迪亚加·迪亚涅 (Ndiaga Diagne)。一名圣战移民被发现车内藏有一本《古兰经》
+⠀
+查理柯克警告美国的伊斯兰教
+
+我们甚至在美国的房间里都挤满了穆斯林，高呼“真主至大！”和“美国去死吧！”
+
+伊斯兰教是国家安全威胁 https://t.co/bbi4GhCi6r
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2028176444481008094)
+
+---
+
+### [Starlink](https://twitter.com/Starlink/status/2028284498555924671)
+
+**发布时间:** 2026-03-02 01:41:22 | ❤️ 16188
+
+> Starlink Mobile’s next-gen satellites will deliver 5G speeds from space with 100x the data density of the current V1 generation satellites
+
+V2 satellites will seamlessly enable streaming, internet browsing, high-speed apps and voice calls, just like being connected to a terrestrial network → https://t.co/CV6MjKASx7
+
+> 🇨🇳 译文：Starlink Mobile 的下一代卫星将从太空提供 5G 速度，数据密度是当前 V1 代卫星的 100 倍
+
+V2 卫星将无缝支持流媒体、互联网浏览、高速应用程序和语音通话，就像连接到地面网络一样 → https://t.co/CV6MjKASx7
+
+![Image](images/img_7b56bdf1-df08-4f0c-a64f-7925081a6452.jpg)
+
+[🔗 查看原帖](https://twitter.com/Starlink/status/2028284498555924671)
+
+---
+
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2028107992663466045)
+
+**发布时间:** 2026-03-01 14:00:00 | ❤️ 46577
+
+> A change is happening. The support for Donald Trump is massive
+
+This post has almost 400k likes in under 24 hours
+
+“Iranian here with a message for every single American who voted for President Trump from the bottom of my heart. Thank you. God bless, president Trump, God bless the US military and God bless America. We can't wait until Iran is free and we can welcome you back to our country with open arms and be the allies that we used to be before the Islamic regime took over our country in 1979. That's it. Thank you. Thank you so much, and God bless America.”
+
+> 🇨🇳 译文：改变正在发生。唐纳德·特朗普的支持率很高
+
+这篇文章在 24 小时内获得了近 40 万个赞
+
+“伊朗人在这里向每一位从心底投票给特朗普总统的美国人传达一条信息。谢谢你们。上帝保佑特朗普总统，上帝保佑美国军队，上帝保佑美国。我们迫不及待地希望伊朗获得自由，我们可以张开双臂欢迎你们回到我们的国家，并成为我们在 1979 年伊斯兰政权接管我们国家之前的盟友。就是这样。谢谢你们。非常感谢你们，上帝保佑美国。”
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2028107992663466045)
+
+---
+
+### [BenjaminDa91346](https://twitter.com/BenjaminDa91346/status/2028362048711893245)
+
+**发布时间:** 2026-03-02 06:49:32 | ❤️ 17047
+
+> 飲んだお酒の缶がコロコロ転がる飲酒記録アプリ凄すぎる
+ https://t.co/3evRWyYzBE
+
+> 🇨🇳 译文：一个饮酒记录应用程序，可以滚动你喝过的酒罐，真是太棒了
+ https://t.co/3evRWyYzBE
+
+[🔗 查看原帖](https://twitter.com/BenjaminDa91346/status/2028362048711893245)
+
+---
+
+### [WatcherGuru](https://twitter.com/WatcherGuru/status/2028371142939906126)
+
+**发布时间:** 2026-03-02 07:25:40 | ❤️ 7922
+
+> JUST IN: Gold surpasses $5,400 https://t.co/zZkCArvZgs
+
+> 🇨🇳 译文：刚刚：黄金突破 5,400 美元 https://t.co/zZkCArvZgs
+
+![Image](images/img_b0fa49e5-460d-4692-ba35-be52ba7ce11a.jpg)
+
+[🔗 查看原帖](https://twitter.com/WatcherGuru/status/2028371142939906126)
+
+---
+
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2028344805454233972)
+
+**发布时间:** 2026-03-02 05:41:01 | ❤️ 10552
+
+> Congressman Brandon Gill called today for an outright ban on Islamic Immigration
+
+He has consistently said importing Muslims into America “is idiotic and suicidal”
+
+They will never assimilate, they attack us, they will continue to run for office and it only ends with living under Sharia Law
+
+“Bringing in lots of people from cultures that are unassimilable and incompatible with our own, whether it's from Somalia or from other parts of the Islamic world, for instance, as, as you alluded to, I think is idiotic and suicidal. 
+
+The reality is that, that not all cultures are equal, and not all cultures are equally compatible with, with our governing framework. And I think our, our immigration policy ought to recognize that and ought to recognize those, those basic truths that, that it should be in our power to determine who comes into our society. That is a core part of, of American sovereignty.”
+
+> 🇨🇳 译文：国会议员布兰登·吉尔今天呼吁彻底禁止伊斯兰移民
+
+他一直表示将穆斯林引入美国“是愚蠢和自杀行为”
+
+他们永远不会同化，他们攻击我们，他们将继续竞选公职，最终只能生活在伊斯兰教法之下
+
+“引进许多来自与我们自己的文化不可同化和不相容的人，无论是来自索马里还是来自伊斯兰世界其他地区，例如，正如你所提到的，我认为这是愚蠢和自杀行为。 
+
+现实情况是，并非所有文化都是平等的，也并非所有文化都与我们的治理框架同样兼容。我认为我们的移民政策应该认识到这一点，并且应该认识到那些基本事实，即我们应该有能力决定谁进入我们的社会。这是美国主权的核心部分。”
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2028344805454233972)
+
+---
+
+### [AshCrypto](https://twitter.com/AshCrypto/status/2028425536910098808)
+
+**发布时间:** 2026-03-02 11:01:48 | ❤️ 1044
+
+> No one is talking about this.
+
+Bitcoin dropped 15% in February and closed its 5th consecutive red monthly candle, the second time in history.
+
+The first time we saw 6 consecutive red candles was in 2018–2019. After that, Bitcoin printed 5 consecutive green candles and pumped 308% from $3400 to $14,000.
+
+If history repeats, BTC is close to a bottom after five red months, and we could see a massive reversal in the coming months.
+
+> 🇨🇳 译文：没有人在谈论这个。
+
+比特币 2 月份下跌 15%，并连续 5 个月度蜡烛收盘，这是历史上第二次。
+
+我们第一次看到连续 6 根红色蜡烛是在 2018-2019 年。此后，比特币连续出现 5 根绿烛，从 3400 美元上涨 308% 至 14000 美元。
+
+如果历史重演，比特币在五个红色月份后接近底部，我们可能会在未来几个月看到巨大的逆转。
+
+![Image](images/img_33f7af62-4a29-4d79-80e6-073e2c3b8514.jpg)
+
+[🔗 查看原帖](https://twitter.com/AshCrypto/status/2028425536910098808)
+
+---
+
+### [Dearme2_](https://twitter.com/Dearme2_/status/2028351988677656836)
+
+**发布时间:** 2026-03-02 06:09:33 | ❤️ 3640
+
+> Real talk. https://t.co/G7Qj6kE2LM
+
+> 🇨🇳 译文：真话。 https://t.co/G7Qj6kE2LM
+
+![Image](images/img_d86f3973-b1c9-4161-92b2-88581b182155.jpg)
+
+[🔗 查看原帖](https://twitter.com/Dearme2_/status/2028351988677656836)
+
+---
+
+### [divya_gandotra](https://twitter.com/divya_gandotra/status/2028338927854334117)
+
+**发布时间:** 2026-03-02 05:17:39 | ❤️ 17374
+
+> Tesla got brain migraine on Indian roads. https://t.co/b29oPnPCbX
+
+> 🇨🇳 译文：特斯拉在印度道路上出现了脑部偏头痛。 https://t.co/b29oPnPCbX
+
+[🔗 查看原帖](https://twitter.com/divya_gandotra/status/2028338927854334117)
+
+---
+
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2027965229167218709)
+
+**发布时间:** 2026-03-01 04:32:43 | ❤️ 2551
+
+> On the top are citizens of Iran celebrating Donald Trump liberating them from the Islamic Regime
+
+On the bottom are liberals protesting Donald Trump liberating Iranians from the Islamic Regime
+
+Someone, Anyone. Please Make It Make Sense
+
+ https://t.co/yp21Z48dRr
+
+> 🇨🇳 译文：顶部是伊朗公民庆祝唐纳德·特朗普将他们从伊斯兰政权中解放出来
+
+底部是自由派，抗议唐纳德·特朗普将伊朗人从伊斯兰政权中解放出来
+
+某人，任何人。请让它有意义
+
+ https://t.co/yp21Z48dRr
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2027965229167218709)
+
+---
+
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2028171104347717768)
+
+**发布时间:** 2026-03-01 18:10:47 | ❤️ 8236
+
+> Housing Secretary Scott Turner says that 50% of everyone on subsidized housing stays there for more than 15 years
+
+Half the people receiving discounted housing have made it their career to be on government benefits
+
+New work requirements and time limits are beginning https://t.co/LltdnW3Zch
+
+> 🇨🇳 译文：住房大臣斯科特·特纳 (Scott Turner) 表示，50% 的补贴住房居民在此居住超过 15 年
+
+一半获得折扣住房的人以领取政府福利为职业
+
+新的工作要求和时间限制即将开始 https://t.co/LltdnW3Zch
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2028171104347717768)
+
+---
+
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2028265938311934237)
+
+**发布时间:** 2026-03-02 00:27:37 | ❤️ 28180
+
+> Iranian Americans outside the White House
+
+“We want to tell the world that we are not Islamic Republic. We are Iranian. We are friends of the west, the east, the whole world”
+
+“This is what Iranians want, period”
+
+Iran citizens “Chanting USA, USA”
+
+Democrats are protesting this https://t.co/gZ4vhgsbhm
+
+> 🇨🇳 译文：白宫外的伊朗裔美国人
+
+“我们想告诉世界，我们不是伊斯兰共和国。我们是伊朗人。我们是西方、东方和全世界的朋友”
+
+“这就是伊朗人想要的，就这样”
+
+伊朗公民“高呼美国，美国”
+
+民主党人对此表示抗议 https://t.co/gZ4vhgsbhm
+
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2028265938311934237)
+
+---
+
+### [imagesaicouldnt](https://twitter.com/imagesaicouldnt/status/2028334484605599964)
+
+**发布时间:** 2026-03-02 05:00:00 | ❤️ 13639
+
+> https://t.co/8u9JFFXJLq
+
+> 🇨🇳 译文：https://t.co/8u9JFFXJLq
+
+![Image](images/img_8b2dc979-c7ea-4212-88fb-8eb0b1098799.jpg)
+
+[🔗 查看原帖](https://twitter.com/imagesaicouldnt/status/2028334484605599964)
+
+---
+
+### [JillianMichaels](https://twitter.com/JillianMichaels/status/2028287965840228559)
+
+**发布时间:** 2026-03-02 01:55:09 | ❤️ 1744
+
+> At the State of the Union, gas prices, a booming stock market, and cooling inflation took center stage as Trump touted the success of his economy. Despite widespread criticism and doomsday predictions, tariffs didn’t crash the economy — they strengthened it. Jillian Michaels explains why the results speak for themselves when it comes to Trump's economic record.
+
+> 🇨🇳 译文：在国情咨文中，特朗普宣扬其经济的成功，天然气价格、繁荣的股市和降温的通胀成为焦点。尽管受到广泛的批评和世界末日的预测，关税并没有摧毁经济，反而加强了经济。吉莉安·迈克尔斯解释了为什么当谈到特朗普的经济记录时，结果是不言而喻的。
+
+[🔗 查看原帖](https://twitter.com/JillianMichaels/status/2028287965840228559)
 
