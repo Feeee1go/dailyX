@@ -95,7 +95,19 @@ def parse_tweets(json_data):
 
                             # Extract required fields
                             author = user_info.get("screen_name", "")
-                            text = details.get("full_text", "")
+
+                            # Prioritize long text from note_tweet, fallback to legacy full_text
+                            long_text = (
+                                tweet_data.get("note_tweet", {})
+                                .get("note_tweet_results", {})
+                                .get("result", {})
+                                .get("text")
+                            )
+                            if long_text:
+                                text = long_text
+                            else:
+                                text = details.get("full_text", "")
+
                             # Convert timestamp to readable date
                             timestamp_ms = details.get("created_at_ms")
                             import datetime
