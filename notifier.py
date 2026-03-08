@@ -17,10 +17,15 @@ def send_email(md_content: str, local_images: list):
     smtp_port_str = os.getenv("SMTP_PORT") or ""
     sender_email = os.getenv("SENDER_EMAIL") or ""
     sender_password = os.getenv("SENDER_PASSWORD") or ""
-    receiver_email = os.getenv("RECEIVER_EMAIL") or ""
+    receiver_emails = [
+        email.strip()
+        for email in os.getenv("RECEIVER_EMAIL", "").split(",")
+        if email.strip()
+    ]
 
-    if not all(
-        [smtp_server, smtp_port_str, sender_email, sender_password, receiver_email]
+    if (
+        not all([smtp_server, smtp_port_str, sender_email, sender_password])
+        or not receiver_emails
     ):
         logging.error("Missing email configuration in environment variables")
         return
@@ -46,7 +51,7 @@ def send_email(md_content: str, local_images: list):
         # Create message
         msg = MIMEMultipart()
         msg["From"] = sender_email
-        msg["To"] = receiver_email
+        msg["To"] = ", ".join(receiver_emails)
         current_date = datetime.now().strftime("%Y-%m-%d")
         msg["Subject"] = f"[Daily Pulse] X 热门资讯 - {current_date}"
 
@@ -66,7 +71,7 @@ def send_email(md_content: str, local_images: list):
         server = smtplib.SMTP_SSL(smtp_server, smtp_port)
         server.login(sender_email, sender_password)
         text = msg.as_string()
-        server.sendmail(sender_email, receiver_email, text)
+        server.sendmail(sender_email, receiver_emails, text)
         server.quit()
 
         logging.info("Email sent successfully")
