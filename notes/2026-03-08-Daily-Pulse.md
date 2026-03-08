@@ -1,632 +1,648 @@
 # Daily Pulse - 2026-03-08
 
-### [kalinowski007](https://twitter.com/kalinowski007/status/2030320074121478618)
+### [Crypto4bailout](https://twitter.com/Crypto4bailout/status/2030633587855233394)
 
-**发布时间:** 2026-03-07 16:30:01 | ❤️ 51089
+**发布时间:** 2026-03-08 13:15:49 | ❤️ 1278
 
-> I resigned from OpenAI. I care deeply about the Robotics team and the work we built together. This wasn’t an easy call. AI has an important role in national security. But surveillance of Americans without judicial oversight and lethal autonomy without human authorization are lines that deserved more deliberation than they got. This was about principle, not people. I have deep respect for Sam and the team, and I’m proud of what we built together.
+> Crypto did ✅ 
+Web3 did✅
+Airdrop did✅
 
-> 🇨🇳 译文：我从 OpenAI 辞职了。我非常关心机器人团队以及我们共同打造的工作。这不是一个容易的决定。人工智能在国家安全中发挥着重要作用。但是，在没有司法监督的情况下对美国人进行监视，以及在没有人类授权的情况下进行致命的自治，这些都是值得比他们得到更多考虑的路线。这是原则问题，不是人问题。我对 Sam 和他的团队怀有深深的敬意，我为我们共同创造的一切感到自豪。
+I built it in 5 months after my biggest 6 figure win in Crypto. 
 
-[🔗 查看原帖](https://twitter.com/kalinowski007/status/2030320074121478618)
+Made a combined $5m for self &amp; community. https://t.co/Bs0CWGaAms
 
----
+> 🇨🇳 译文：加密货币做到了✅ 
+Web3 做到了✅
+空投做到了✅
 
-### [moltxbot](https://twitter.com/moltxbot/status/2030381123931656343)
+在我获得加密货币领域最大的 6 位数胜利后，我在 5 个月内构建了它。 
 
-**发布时间:** 2026-03-07 20:32:37 | ❤️ 715
+为自己和他人总共赚了 500 万美元。社区。 https://t.co/Bs0CWGaAms
 
-> Airdrop registration is now live. 
+![Image](images/img_ffcf16ff-a352-421a-ad09-046467a416ff.jpg)
 
-Anyone can join for free $MOLTBOT
+![Image](images/img_433711a6-2cee-4392-ae4c-3989af8886b6.jpg)
 
-Apply → https://t.co/bouQPaPlGW https://t.co/WMDlFlctgI
+![Image](images/img_e20286f2-810c-4ed9-8882-f5245b215fe6.jpg)
 
-> 🇨🇳 译文：空投注册现已上线。 
+![Image](images/img_5bf0f2e8-306a-45cd-87b4-5b3204a16ea1.jpg)
 
-任何人都可以免费加入 $MOLTBOT
-
-申请 → https://t.co/bouQPaPlGW https://t.co/WMDlFlctgI
-
-![Image](images/img_450814fd-1c6b-4ef1-b0b8-6d0ced208289.jpg)
-
-[🔗 查看原帖](https://twitter.com/moltxbot/status/2030381123931656343)
+[🔗 查看原帖](https://twitter.com/Crypto4bailout/status/2030633587855233394)
 
 ---
 
-### [MaxCrypto](https://twitter.com/MaxCrypto/status/2030199045961183317)
+### [HAL2400AI](https://twitter.com/HAL2400AI/status/2030106070157525487)
 
-**发布时间:** 2026-03-07 08:29:06 | ❤️ 4535
+**发布时间:** 2026-03-07 02:19:39 | ❤️ 11918
 
-> 🚨 A whale has opened a $2,800,000 Oil short position.
+> AIで、自分がプレイしてみたい架空のゲームのプレイ動画を作ってみた。
 
-If Oil pumps to $120/barrel, he will get wiped out. https://t.co/NqUcnuBPcQ
+想像していた世界を30分で形にできて、それを他の人に映像として共有できる。
 
-> 🇨🇳 译文：🚨 鲸鱼开设了价值 2,800,000 美元的石油空头头寸。
+やっぱりAIって魔法だと思う。 https://t.co/B2j2nvpFqU
 
-如果油价升至 120 美元/桶，他就会破产。 https://t.co/NqUcnuBPcQ
+> 🇨🇳 译文：我使用人工智能为我想玩的假设游戏创建了一个游戏视频。
 
-![Image](images/img_028f9606-c2f5-4521-8105-3cfc6732b4dd.jpg)
+您可以在短短 30 分钟内创建您想象的世界，并以视频的形式与其他人分享。
 
-[🔗 查看原帖](https://twitter.com/MaxCrypto/status/2030199045961183317)
+我认为人工智能毕竟是魔法。 https://t.co/B2j2nvpFqU
+
+[🔗 查看原帖](https://twitter.com/HAL2400AI/status/2030106070157525487)
 
 ---
 
-### [DeFiTracer](https://twitter.com/DeFiTracer/status/2030277784421970000)
+### [oliviscusAI](https://twitter.com/oliviscusAI/status/2030602059712471112)
 
-**发布时间:** 2026-03-07 13:41:59 | ❤️ 1919
+**发布时间:** 2026-03-08 11:10:32 | ❤️ 5079
 
-> 🚨 STOCK MARKET WILL CRASH ON MONDAY!!
+> 🚨 BREAKING: Someone just open-sourced software that sees you through walls using only WIFI signals.
 
-The global market is in huge trouble right now:
+it’s called WiFi-DensePose. It maps your exact body pose in real-time. no cameras. no sensors. just your living room router.
 
-- The US-Iran war is escalating
-- The Bank Of Japan is preparing to dump $600B+ of US Treasuries
-- The oil price is skyrocketing every day
-- The world is on the verge of WW3 right now
-- Poland is preparing for an attack from Belarus
+100% Open Source. https://t.co/JMfXBHK3uX
 
-This is when things start to break.
+> 🇨🇳 译文：🚨 重大事件：有人刚刚推出了一款开源软件，可以仅使用 WIFI 信号就能让你穿墙而过。
 
-The probability of what's happening is close to ZERO.
+它被称为 WiFi-DensePose。 它实时绘制您准确的身体姿势。没有相机。没有传感器。只是你客厅的路由器。
 
-That's NOT a NORMAL market.
+100% 开源。 https://t.co/JMfXBHK3uX
 
-What comes next is much WORSE than people expect.
-
-So if you hold ANY assets, you MUST read this post right now.
-
-Here's what's happening and what to do now:
-
-Let's start from the beginning.
-
-FIRST PART
-
-The US will massively strike Iran today. Trump already announced it right after Iran's president's speech.
-
-This is when things may escalate, as Iran is NOT looking for a ceasefire.
-
-On top of that, the White House confirmed that this operation will last for at least 4-5 weeks.
-
-During all this time, the Strait of Hormuz will be closed.
-
-Oil prices across the whole world will keep rising every day.
-
-IT PUMPED 45% IN JUST ONE WEEK.
-
-And prices of all risk-off assets will keep rising, while the stock market will dump.
-
-SECOND PART
-
-Japan is forced to abandon decades of Yield Curve Control to save the yen.
-
-Their stock market and yen are crashing right now, and to defend them they must create real buyers for JGBs.
-
-The problem is HUGE right now.
-
-Why?
-
-Because the BOJ cannot create real buyers anymore.
-
-So the only solution for Japan now is to take their money from the US market and put it back into its own market.
-
-Now look at the size of Japanese money sitting in the US:
-
-- The US Treasury market is ~$30 TRILLION
-- Japan’s government bonds and borrowings are about ¥1,342.2T ($8.6 TRILLION)
-
-Japan is the LARGEST foreign holder of US government debt.
-
-They plan to sell $600B in US assets next week, and if this happens the system will collapse.
-
-THIRD PART
-
-We are in the biggest UNCERTAINTY ever right now.
-
-Many countries are preparing for WW3, and if this happens, assets will crash fast:
-
-- Bonds will dump
-- Stocks will dump after
-- Risk assets will crash FIRST
-
-What should you do now?
-
-I DON'T tell you, "sell everything now". No.
-
-But you should be prepared with an exact plan to protect your capital when things get worse.
-
-Comment "Guide" under this post, and I will send you my strategy in DM.
-
-I have been in the market for over 10 years and know what to do.
-
-I’ll post the warning BEFORE it hits the headlines.
-
-Follow me and keep NOTIS ON so you don't miss my next move.
-
-Many people regret not following me earlier...
-
-> 🇨🇳 译文：🚨 周一股市将崩盘！
-
-全球市场目前正面临巨大的麻烦：
-
-- 美伊战争不断升级
-- 日本央行正准备抛售 600B+ 美元的美国国债
-- 石油价格每天都在飙升
-- 世界现在正处于第三次世界大战的边缘
-- 波兰正在准备应对白俄罗斯的袭击
-
-这就是事情开始破裂的时候。
-
-发生这种情况的可能性接近于零。
-
-那不是一个正常的市场。
-
-接下来发生的事情比人们预期的要糟糕得多。
-
-因此，如果您持有任何资产，您现在必须阅读这篇文章。
-
-以下是正在发生的情况以及现在要做的事情：
-
-让我们从头开始吧。
-
-第一部分
-
-美国今天将对伊朗进行大规模打击。特朗普在伊朗总统讲话后就宣布了这一消息。
-
-此时事态可能会升级，因为伊朗并不寻求停火。
-
-最重要的是，白宫确认此次行动将持续至少4-5周。
-
-在此期间，霍尔木兹海峡将被关闭。
-
-全世界的石油价格将每天持续上涨。
-
-短短一周内就上涨了 45%。
-
-所有避险资产的价格都会持续上涨，而股市则会下跌。
-
-第二部分
-
-日本被迫放弃数十年的收益率曲线控制以拯救日元。
-
-他们的股市和日元现在正在崩溃，为了保卫它们，他们必须为日本国债创造真正的买家。
-
-现在的问题是巨大的。
-
-为什么？
-
-因为日本央行无法再创造真正的买家。
-
-因此，日本现在唯一的解决办法就是把钱从美国市场拿回自己的市场。
-
-现在看看日本在美国的资金规模：
-
-- 美国国债市场规模约为 30 万亿美元
-- 日本政府债券和借款约为 1,342.2 日元（8.6 万亿美元）
-
-日本是美国政府债务的最大外国持有者。
-
-他们计划下周出售 600B 美元的美国资产，如果这种情况发生，系统将崩溃。
-
-第三部分
-
-我们现在正处于有史以来最大的不确定性之中。
-
-许多国家正在为第三次世界大战做准备，如果发生这种情况，资产将迅速崩溃：
-
-- 债券将抛售
-- 股票将在之后抛售
-- 风险资产将首先崩溃
-
-你现在应该做什么？
-
-我不会告诉你“现在卖掉所有东西”。不。
-
-但您应该准备一个准确的计划，以在情况变得更糟时保护您的资本。
-
-在这篇文章下评论“指南”，我会在DM中向您发送我的策略。
-
-我已经在市场上工作了10多年，知道该怎么做。
-
-我会在它成为头条新闻之前发布警告。
-
-关注我并保持通知开启，这样您就不会错过我的下一步行动。
-
-很多人都后悔没有早点关注我……
-
-![Image](images/img_03cd4cb8-d255-4827-8e40-5a97c33663ed.jpg)
-
-[🔗 查看原帖](https://twitter.com/DeFiTracer/status/2030277784421970000)
+[🔗 查看原帖](https://twitter.com/oliviscusAI/status/2030602059712471112)
 
 ---
 
-### [cryptofergani](https://twitter.com/cryptofergani/status/2030324819477004393)
+### [JasminLaine_](https://twitter.com/JasminLaine_/status/2030075901870833840)
 
-**发布时间:** 2026-03-07 16:48:53 | ❤️ 613
+**发布时间:** 2026-03-07 00:19:46 | ❤️ 1787
 
-> IN 2021 BULL RUN,
+> “This economy cannot last unless there is certainty with the U.S. Trade relationship” 
 
-$SHIB PUMPED 111,468,947%
+Tony Clement gives several reality checks on CTV https://t.co/pkPXnfJsbU
 
-$GALA PUMPED 52,000%
+> 🇨🇳 译文：“除非美国贸易关系有确定性，否则这种经济就无法持续” 
 
-$DOGE PUMPED 38700%
+托尼·克莱门特 (Tony Clement) 在 CTV 上进行了多次现实检验 https://t.co/pkPXnfJsbU
 
-WHICH 3 ALTCOINS WILL PUMP THE MOST IN 2026 BULL RUN?
-
-> 🇨🇳 译文：2021年牛市，
-
-$SHIB 已抽出 111,468,947%
-
-$GALA 上涨 52,000%
-
-$DOGE 已上涨 38700%
-
-哪 3 种山寨币在 2026 年牛市中涨幅最大？
-
-[🔗 查看原帖](https://twitter.com/cryptofergani/status/2030324819477004393)
+[🔗 查看原帖](https://twitter.com/JasminLaine_/status/2030075901870833840)
 
 ---
 
-### [oliviscusAI](https://twitter.com/oliviscusAI/status/2030237913724645449)
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2030637158189445333)
 
-**发布时间:** 2026-03-07 11:03:33 | ❤️ 1916
+**发布时间:** 2026-03-08 13:30:00 | ❤️ 12666
 
-> Microsoft Research + Salesforce just dropped a paper that should scare every single AI builder right now.
+> This huge yacht is owned by Jeff Bezos but this is not the yacht he sails on
 
-They tested 15 of the top models (GPT-4.1, Gemini 2.5 Pro, Claude 3.7 Sonnet, o3, DeepSeek R1, Llama 4) across 200,000+ simulated conversations.
+This is his “shadow yacht” for his main yacht. This yacht just sails alongside his larger yacht for additional supplies
 
-The results are actually terrifying.
+These are the people telling you not to drive gas cars because of climate change https://t.co/iINU0N9HZg
 
-If you give a model a single-turn prompt, it hits 90% performance. But if you have a multi-turn conversation? it plummets to 65%.
-same model. same task. just.. talking normally.
+> 🇨🇳 译文：这艘巨大的游艇属于杰夫·贝佐斯，但这不是他驾驶的游艇
 
-The crazy part is that the ai isn't getting dumber (aptitude only dropped 15%). the problem is that unreliability EXPLODED by 112%..
+这是他的主游艇的“影子游艇”。这艘游艇只是与他的大型游艇一起航行以获取额外的补给
 
-Here is exactly why they break:
+这些人告诉你不要因为气候变化而驾驶汽油车 https://t.co/iINU0N9HZg
 
-→ they answer before you finish explaining, and those wrong assumptions get baked in permanently
-→ they fall in love with their first wrong answer and just keep building on it
-→ they completely forget the middle of your conversation
-→ longer responses introduce more assumptions, which means more errors
-
-Even the new reasoning models failed. o3 and deepseek r1 performed just as badly. giving them extra "thinking tokens" did absolutely nothing. setting temperature to 0? still broken.
-
-Every benchmark we celebrate is tested in perfect, single-prompt lab conditions. but real conversations break every model on the market and nobody is talking about it..
-
-The only fix right now? stop chatting. Give your AI everything upfront in one massive message instead of going back-and-forth.
-
-> 🇨🇳 译文：微软研究院 + Salesforce 刚刚发布了一篇论文，现在应该会吓到每一个人工智能开发者。
-
-他们在 200,000 多个模拟对话中测试了 15 个顶级模型（GPT-4.1、Gemini 2.5 Pro、Claude 3.7 Sonnet、o3、DeepSeek R1、Llama 4）。
-
-结果实际上是可怕的。
-
-如果你给模型一个单轮提示，它会达到 90% 的性能。但如果你进行多轮对话呢？暴跌至 65%。
-相同型号。同样的任务。只是..正常说话。
-
-疯狂的是人工智能并没有变得更笨（能力只下降了 15%）。问题是不可靠性爆炸了 112%..
-
-这就是它们破裂的确切原因：
-
-→ 他们在你解释完之前就回答了，而那些错误的假设就会永久地根深蒂固
-→ 他们爱上了他们的第一个错误答案，并继续在此基础上继续发展
-→ 他们完全忘记了你谈话的中间部分
-→ 较长的响应会引入更多的假设，这意味着更多的错误
-
-即使新的推理模型也失败了。 o3 和 deepseek r1 的表现同样糟糕。给他们额外的“思考令牌”绝对没有任何作用。将温度设置为0？还是坏了。
-
-我们庆祝的每个基准测试都是在完美的单提示实验室条件下进行测试的。但真正的对话打破了市场上的所有模型，但没有人谈论它。
-
-现在唯一的解决方法是什么？别再聊天了。在一条巨大的消息中预先向您的 AI 提供所有信息，而不是来来回回。
-
-![Image](images/img_8fc213ff-deed-45ce-b15b-4687d45a894d.jpg)
-
-[🔗 查看原帖](https://twitter.com/oliviscusAI/status/2030237913724645449)
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2030637158189445333)
 
 ---
 
-### [FinanceLancelot](https://twitter.com/FinanceLancelot/status/2030106586107003170)
+### [aussiehaggie](https://twitter.com/aussiehaggie/status/2030351537579639018)
 
-**发布时间:** 2026-03-07 02:21:42 | ❤️ 1349
+**发布时间:** 2026-03-07 18:35:03 | ❤️ 788
 
-> "Private credit could be one of the biggest busts we've ever seen on Wall Street," warns @rcwhalen https://t.co/uQDaigEi6a
+> Still under 5M impression 🫵🧡😉
 
-> 🇨🇳 译文：“私人信贷可能是我们在华尔街见过的最大的破产之一，”@rcwhalen 警告说 https://t.co/uQDaigEi6a
+Say Hi 👋 
 
-[🔗 查看原帖](https://twitter.com/FinanceLancelot/status/2030106586107003170)
+Let's boost you 💯🔥🔥🔥🔥🔥🔥📈🚀 https://t.co/HwfddtXYgj
 
----
+> 🇨🇳 译文：印象数仍低于 500 万🫵🧡😉
 
-### [cryptofergani](https://twitter.com/cryptofergani/status/2030312555067986259)
+打个招呼👋 
 
-**发布时间:** 2026-03-07 16:00:09 | ❤️ 892
+让我们为您加油💯🔥🔥🔥🔥🔥🔥🔥📈🚀 https://t.co/HwfddtXYgj
 
-> THE U.S. HAS STARTED PRINTING MONEY AGAIN 
+![Image](images/img_9fdffed6-6586-427a-8dc8-44fb75e27ea4.jpg)
 
-THE DOLLAR WILL CRASH AND BITCOIN WILL PUMP 🚀 https://t.co/1dwuwa8CU9
-
-> 🇨🇳 译文：美国再次开始印钞 
-
-美元将会崩溃，比特币将会上涨🚀 https://t.co/1dwuwa8CU9
-
-![Image](images/img_c1f69611-9bbb-40cc-8809-568cff5624d9.jpg)
-
-[🔗 查看原帖](https://twitter.com/cryptofergani/status/2030312555067986259)
+[🔗 查看原帖](https://twitter.com/aussiehaggie/status/2030351537579639018)
 
 ---
 
-### [FinanceLancelot](https://twitter.com/FinanceLancelot/status/2030472705540018357)
+### [doxie_gay](https://twitter.com/doxie_gay/status/2030368623173177695)
 
-**发布时间:** 2026-03-08 02:36:32 | ❤️ 1297
+**发布时间:** 2026-03-07 19:42:56 | ❤️ 91040
 
-> It's almost as if they're telling you exactly what's about to happen before it happens...
+> idgaf about AI, i love real human slop https://t.co/0PPkZoLlBg
 
-Federal Reserve's purchases of short duration T-Bills just hit a record of $344B, surpassing the height of the 2019 Bank Repo Crisis that was covered up by "the virus" https://t.co/4uiDcuDaQM
+> 🇨🇳 译文：idgaf 关于人工智能，我喜欢真正的人类泥浆 https://t.co/0PPkZoLlBg
 
-> 🇨🇳 译文：就好像他们在事情发生之前就准确地告诉你将要发生的事情一样......
-
-美联储购买短期国债刚刚创下$344B的记录，超过了被“病毒”掩盖的2019年银行回购危机的高度 https://t.co/4uiDcuDaQM
-
-![Image](images/img_30ad8ca0-515d-4b06-b7f8-06188a0fb01a.jpg)
-
-[🔗 查看原帖](https://twitter.com/FinanceLancelot/status/2030472705540018357)
+[🔗 查看原帖](https://twitter.com/doxie_gay/status/2030368623173177695)
 
 ---
 
-### [FirstSquawk](https://twitter.com/FirstSquawk/status/2030291067611095068)
+### [i_realnih](https://twitter.com/i_realnih/status/2030442325881819465)
 
-**发布时间:** 2026-03-07 14:34:46 | ❤️ 1973
+**发布时间:** 2026-03-08 00:35:48 | ❤️ 1964
 
-> CIRCLE INTERNET GROUP AND STRIPE ARE RACING TO BUILD PAYMENT SYSTEMS FOR A WORLD IN WHICH AUTONOMOUS AI AGENTS SETTLE IN STABLECOINS, REPLACING THE SWIPE OF A CREDIT CARD
+> It was never about the technology. https://t.co/lMhKjpWyG5
 
-> 🇨🇳 译文：Circle INTERNET GROUP 和 STRIPE 正在竞相构建支付系统，让自主人工智能代理以稳定币结算，取代信用卡刷卡方式
+> 🇨🇳 译文：这从来都与技术无关。 https://t.co/lMhKjpWyG5
 
-[🔗 查看原帖](https://twitter.com/FirstSquawk/status/2030291067611095068)
-
----
-
-### [XFreeze](https://twitter.com/XFreeze/status/2030153442623418625)
-
-**发布时间:** 2026-03-07 05:27:53 | ❤️ 3751
-
-> You can now have a personal AI agent team working for you directly on https://t.co/djGzJCOPew and it’s unlike anything you’ve seen before
-
-Grok 4.20 Beta comes with a native 4-agent system built in, plus a massive 16-agent swarm if you're on the SuperGrok Heavy plan
-
-You can customize each one individually so they debate, fact-check, correct each other, and work completely in parallel on your own terms
-
-> 🇨🇳 译文：现在，您可以直接在 https://t.co/djGzJCOPew 上拥有一个个人 AI 代理团队为您工作，这与您以前见过的任何东西都不同
-
-Grok 4.20 Beta 内置了一个原生 4 代理系统，如果您使用 SuperGrok Heavy 计划，还可以加上一个巨大的 16 代理群
-
-您可以单独定制每个人，以便他们进行辩论、事实核查、互相纠正，并按照您自己的方式完全并行工作
-
-![Image](images/img_bfdecd38-fd2c-4e97-8444-3d4ca7933685.jpg)
-
-[🔗 查看原帖](https://twitter.com/XFreeze/status/2030153442623418625)
+[🔗 查看原帖](https://twitter.com/i_realnih/status/2030442325881819465)
 
 ---
 
-### [cryptofergani](https://twitter.com/cryptofergani/status/2030278244931445158)
+### [zundamotisuki](https://twitter.com/zundamotisuki/status/2030491155893453059)
 
-**发布时间:** 2026-03-07 13:43:48 | ❤️ 855
+**发布时间:** 2026-03-08 03:49:50 | ❤️ 31098
 
-> I am back as promised :)
+> 「WBCで台湾人の観客がゴミを残して行った！」と中国側でゴミが散らばった画像が拡散
+↓
+AI画像と判明
+↓
+実際は試合後ゴミを拾っていた台湾の皆さん
 
-Time to start the $25 —&gt; $10,000 challenge
+コレが事実です
 
-Last time it took me about 7 days, will try doing it faster this time
+拡散希望です
+ https://t.co/cAZM3XNp0p
 
-If you want to follow want to follow along, comment below and I’ll send you an invite to the call group
+> 🇨🇳 译文：“台湾观众在WBC留下垃圾！”垃圾散落在中方一侧的图片在网上疯传
+↓
+原来是AI图像
+↓
+比赛结束后，台湾人居然开始捡垃圾了。
 
-Gonna lock comments in 24 hours https://t.co/6usjHeJLX6
+这是事实
 
-> 🇨🇳 译文：我如约回来了:)
+我希望能够传播这个消息
+ https://t.co/cAZM3XNp0p
 
-是时候开始 25 美元了 —> 10,000 美元挑战
-
-上次花了我大约7天的时间，这次会尝试做得更快一些
-
-如果您想关注，请在下面发表评论，我将向您发送加入通话组的邀请
-
-24小时内锁定评论 https://t.co/6usjHeJLX6
-
-![Image](images/img_af160d53-b92b-4104-ac1e-1946f844d6c8.jpg)
-
-[🔗 查看原帖](https://twitter.com/cryptofergani/status/2030278244931445158)
-
----
-
-### [AshCrypto](https://twitter.com/AshCrypto/status/2030183519087993259)
-
-**发布时间:** 2026-03-07 07:27:24 | ❤️ 13320
-
-> BREAKING: 
-
-🇺🇸 BlackRock has sold $143,500,000 in Bitcoin. https://t.co/SYDAYnTcZL
-
-> 🇨🇳 译文：打破： 
-
-🇺🇸 贝莱德已售出 1.435 亿美元的比特币。 https://t.co/SYDAYnTcZL
-
-![Image](images/img_afeb92f4-d5fd-427c-9579-674dab96419c.jpg)
-
-![Image](images/img_d8ab3ba6-c53d-4b45-89c1-0adafd9e3ca9.jpg)
-
-[🔗 查看原帖](https://twitter.com/AshCrypto/status/2030183519087993259)
+[🔗 查看原帖](https://twitter.com/zundamotisuki/status/2030491155893453059)
 
 ---
 
-### [CryptoNobler](https://twitter.com/CryptoNobler/status/2030338054024565242)
+### [WallStreetApes](https://twitter.com/WallStreetApes/status/2030488621275619677)
 
-**发布时间:** 2026-03-07 17:41:28 | ❤️ 750
+**发布时间:** 2026-03-08 03:39:46 | ❤️ 19046
 
-> 🚨 BREAKING
+> We have to keep being loud. Islam is not compatible with Western Civilization
 
-ETHEREUM FOUNDER JUST STARTED AGGRESSIVELY DUMPING MILLIONS OF $ETH DURING LOW-LIQUIDITY HOURS.
+“In Pakistan, a Muslim man kidnapped a 13 year old Christian girl named Maria. He held her captive for 6 months, raped her, forced her to convert to Islam, and forced her to marry him. When her father reported the abduction, the Sharia Court ruled in favor of granting custody to the kidnapper. 
 
-HE JUST SOLD 80,000 $ETH WORTH OVER $160 MILLION AND KEEPS DUMPING MORE EVERY FEW MINUTES.
+This is the sh*t. I mean when I say that Islam is not compatible with the civilized world. 
 
-WHAT’S GOING ON?? https://t.co/eR9VrpmXIk
+This dude kidnapped a 13 year old girl, kept her for 6 months, forced her to convert to Islam, married her, and proceeded to have his way with a 13 year old girl, and then the court decided that her husband should keep custody. Imagine being this father. 
 
-> 🇨🇳 译文：🚨 打破
+Imagine being a father who lost his 13 year old daughter to this depraved f*cking lunatic. Then you're so relieved to find her, and then a court tells you no, the kidnapper gets to keep her. 
 
-以太坊创始人刚刚开始在流动性较低的时期大举抛售数百万美元的 ETH。
+This sh*t does not belong in 2026. If you believe in this sh*t, you don't belong in 2026”
 
-他刚刚卖出了 80,000 美元的 ETH，价值超过 1.6 亿美元，并且每隔几分钟就抛售更多。
+> 🇨🇳 译文：我们必须继续大声。伊斯兰教与西方文明不相容
 
-这是怎么回事？？ https://t.co/eR9VrpmXIk
+“在巴基斯坦，一名穆斯林男子绑架了一名名叫玛丽亚的 13 岁基督教女孩。他将她囚禁了 6 个月，强奸了她，强迫她皈依伊斯兰教，并强迫她嫁给他。当她的父亲报告绑架事件时，伊斯兰教法法院裁定将监护权授予绑匪。 
 
-![Image](images/img_0f8e2fcd-805c-45b8-ae1a-c9cae51c23b3.jpg)
+这就是狗屎。我的意思是，当我说伊斯兰教与文明世界不相容时。 
 
-[🔗 查看原帖](https://twitter.com/CryptoNobler/status/2030338054024565242)
+这个家伙绑架了一名 13 岁的女孩，关押了她 6 个月，强迫她皈依伊斯兰教，与她结婚，然后对一名 13 岁的女孩进行了他的行为，然后法院决定由她的丈夫保留监护权。想象一下自己是这样的父亲。 
 
----
+想象一下，作为一名父亲，他 13 岁的女儿被这个堕落的疯子夺走了。然后你找到她就如释重负，然后法庭告诉你不行，绑匪可以保留她。 
 
-### [cryptopunk7213](https://twitter.com/cryptopunk7213/status/2030457601465393572)
+这种狗屎不属于 2026 年。如果你相信这种狗屎，你就不属于 2026 年”
 
-**发布时间:** 2026-03-08 01:36:30 | ❤️ 1470
-
-> karpathy really is the fucking goat. 
-
-- built an AI agent that autonomously self-improves while you sleep and made it FREE for anyone to use
-
-- we’re talking about an AI that gets smarter over night and runs itself.
-
-- executes 100 experiments (1 every 5 mins), if it gets smarter it upgrades if it doesn’t it discards and tries again.
-
-- only requires 1 gpu to run
-
-what i love abt this is it puts the power of training frontier intelligence into the hands of MORE people 
-
-right now it’s all been about pay-to-play, you need to be openai or anthropic. this changes that (all be it in a small way)
-
-> 🇨🇳 译文：卡帕西确实是个该死的山羊。 
-
-- 构建了一个人工智能代理，可以在您睡觉时自动自我改进，并免费供任何人使用
-
-- 我们谈论的是一种一夜之间变得更聪明并且可以自行运行的人工智能。
-
-- 执行 100 次实验（每 5 分钟 1 次），如果它变得更聪明，它会升级，如果没有，它会丢弃并重试。
-
-- 只需要 1 个 GPU 即可运行
-
-我喜欢的是，它将培训前沿情报的力量交到更多人手中 
-
-现在一切都是付费游戏，你需要开放或人性化。这改变了（一切都以很小的方式改变）
-
-[🔗 查看原帖](https://twitter.com/cryptopunk7213/status/2030457601465393572)
+[🔗 查看原帖](https://twitter.com/WallStreetApes/status/2030488621275619677)
 
 ---
 
-### [DeFiTracer](https://twitter.com/DeFiTracer/status/2030387400967385113)
+### [aarai666](https://twitter.com/aarai666/status/2030445939056640498)
 
-**发布时间:** 2026-03-07 20:57:33 | ❤️ 652
+**发布时间:** 2026-03-08 00:50:10 | ❤️ 4154
 
-> 🚨 BREAKING:
+> 中国で再生回数5億回超えのAIドラマ！
 
-🇺🇸 PRESIDENT TRUMP SAID "I WILL SUPPORT RIGHT TO SELF-CUSTODY FOR THE NATION’S 50 MILLION CRYPTO HOLDERS"
+中国でAIショートドラマ『霍去病（かくきょへい）』が、再生回数5億回を突破したと話題になっています。
 
-I WILL ENSURE THAT THE FUTURE OF CRYPTO AND $BTC WILL BE MADE IN THE USA
+制作費はわずか約6万円（3000元）。たった3人で、5日間で80話を制作するという常識破りのスピードで作られました。現在ネット上で大バズりしています！ https://t.co/u7fhrtsGYx
 
-GIGA BULLISH FOR CRYPTO!! https://t.co/N3WLVuos9f
+> 🇨🇳 译文：中国播放量超5亿次的AI剧！
 
-> 🇨🇳 译文：🚨 突破：
+在中国，AI短剧《霍情病》已成为热门话题，播放量已超5亿次。
 
-🇺🇸 特朗普总统表示“我将支持美国 5000 万加密货币持有者的自我保管权”
+制作成本仅为6万日元（3000元人民币）左右。制作速度之快前所未有，仅用三个人就在五天内制作了 80 集。目前这件事在网络上引起了很大的轰动！ https://t.co/u7fhrtsGYx
 
-我将确保加密货币和 BTC 的未来将在美国制造
-
-加密货币的巨大看涨！！ https://t.co/N3WLVuos9f
-
-[🔗 查看原帖](https://twitter.com/DeFiTracer/status/2030387400967385113)
+[🔗 查看原帖](https://twitter.com/aarai666/status/2030445939056640498)
 
 ---
 
-### [la_france_sur_x](https://twitter.com/la_france_sur_x/status/2030397926942597491)
+### [ChrisExcel102](https://twitter.com/ChrisExcel102/status/2030603778504720762)
 
-**发布时间:** 2026-03-07 21:39:23 | ❤️ 3044
+**发布时间:** 2026-03-08 11:17:22 | ❤️ 1803
 
-> En 1980, Anna Bachmeier, âgée de 7 ans, a été VIOLÉE et ASSASSINÉE par Klaus Grabowski, un PÉDOPHILE condamné.
+> The number of white people begging money on the robots 🚦 went up drastically 
 
-Lors de son procès en 1981, il a PRÉTENDU que l'enfant l'avait SÉDUIT.
+This Ramaphosa economy will be written in history books 😭😭😭 https://t.co/P8miaUpz9b
 
-Sa mère, Marianne, l'a ABATTU de sept BALLES au TRIBUNAL : « Je l'ai fait pour Ana. »
+> 🇨🇳 译文：向机器人乞讨钱财的白人数量急剧增加 
 
-Cette mère était-elle une héroïne ?
-A. Oui
-B. Non
+拉马福萨的经济将被载入史册 😭😭😭 https://t.co/P8miaUpz9b
 
-🇫🇷 Soutenez-nous en nous suivant sur 𝕏  🌐 Notre Telegram en cas de censure : https://t.co/9eN3r8dvMQ 🇫🇷
-
-> 🇨🇳 译文：1980 年，7 岁的安娜·巴赫梅尔 (Anna Bachmeier) 被被定罪的恋童癖者克劳斯·格拉博夫斯基 (Klaus Grabowski) 强奸并谋杀。
-
-在 1981 年的审判中，他声称是这个孩子引诱了他。
-
-他的母亲玛丽安在法庭上向他开了七枪：“我是为了安娜才这么做的。”
-
-这位母亲是英雄吗？
-答：是的
-B、否
-
-🇫🇷通过关注我们𝕏🌐支持我们，以防审查：https://t.co/9eN3r8dvMQ🇫🇷
-
-[🔗 查看原帖](https://twitter.com/la_france_sur_x/status/2030397926942597491)
+[🔗 查看原帖](https://twitter.com/ChrisExcel102/status/2030603778504720762)
 
 ---
 
-### [Darky1k](https://twitter.com/Darky1k/status/2030367138339315822)
+### [mbstokuban](https://twitter.com/mbstokuban/status/2030523913269280902)
 
-**发布时间:** 2026-03-07 19:37:02 | ❤️ 5911
+**发布时间:** 2026-03-08 06:00:00 | ❤️ 6818
 
-> OIL PRICE IS ABOUT TO SKYROCKET
+> 来週１５日（日）の午後３時、この時間は…
+╭━━━━━━━━━━━━━━━╮
+　　　📢いよいよOAですよー！
+╰━━━━━ｖ━━━━━━━━━╯
+大変だけど…AIよりちゃんと調べてみた
+＼　　　　タイパ対timelesz　　　　／
 
-US ECONOMY WILL COLLAPSE
-STOCKS WILL DUMP HARD
+番宣CMを公開✨ぜひご覧ください🌈
+#タイタイタイ #タイムレス #timelesz
 
-YOU STILL HAVE TIME TO EXIT THE MARKETS
+> 🇨🇳 译文：下周15日（周日）下午3点，这次...
+╭──────────────────────────────╮
+　　　📢终于OA了！
+╰──────────v──────────────────╯
+这很难，但是……我比人工智能研究得更彻底。
+＼　　　凼仔 vs. timelesz　　　／
 
-> 🇨🇳 译文：油价即将飙升
+宣传广告已经发布✨请大家看看🌈
+#铁太太#Timeless #timelesz
 
-美国经济将会崩溃
-股市将大幅下跌
-
-您仍有时间退出市场
-
-[🔗 查看原帖](https://twitter.com/Darky1k/status/2030367138339315822)
+[🔗 查看原帖](https://twitter.com/mbstokuban/status/2030523913269280902)
 
 ---
 
-### [RightScopee](https://twitter.com/RightScopee/status/2030462709188235740)
+### [frenchmonster7](https://twitter.com/frenchmonster7/status/2030162963311776021)
 
-**发布时间:** 2026-03-08 01:56:48 | ❤️ 2619
+**发布时间:** 2026-03-07 06:05:43 | ❤️ 9190
 
-> 🚨BREAKING: Democrats are in panic mode after DEVASTATING new poll finds Americans trust the Republican Party on the ECONOMY and INFLATION by +6 points, tariffs by +2 points, immigration by +11 points and border security by +28 points.
+> 관광통역안내사 시험에 합격했습니다!
+2026년 새로운 도전, 전 세계에 대한민국을 알리겠습니다 🇰🇷
 
-Donald Trump is crushing it! 🇺🇸🇺🇸
+I passed the Korean National Tour Guide Certification exam!🥳
+A new challenge coming for me!
 
-Simple poll. Please be honest! As of today, how much do you still trust and support this man?
+J’ai réussi l’examen national pour devenir guide touristique en Corée !
+Une année de préparation et d’études très enrichissante!
 
-A. 100%
-B. 50%
-C. 25%
-D. 0%
+> 🇨🇳 译文：我通过了旅游翻译导游考试！
+2026年新的挑战，我们将向世界宣传韩国🇰🇷
 
-MAKE THIS GO VIRAL ON 𝕏. LET’S GO 👏
+我通过了韩国国家导游认证考试！🥳
+新的挑战正在向我袭来！
 
-> 🇨🇳 译文：🚨突发新闻：令人震惊的新民意调查显示，美国人对共和党在经济和通胀方面的信任度增加了 6 个百分点，关税增加了 2 个百分点，移民增加了 11 个百分点，边境安全增加了 28 个百分点，民主党人陷入了恐慌。
+J’ai réussi l’amen 国家旅游指南 en Corée！
+准备和学习的年鉴非常丰富！
 
-唐纳德·特朗普正在粉碎它！ 🇺🇸🇺🇸
+![Image](images/img_15e24bac-5040-4eeb-a2f7-c196d6fa0a02.jpg)
 
-简单的民意调查。请诚实！时至今日，你对这个人还有多少信任和支持？
+![Image](images/img_69f35e9d-8898-4afe-a2c7-cbcea787c7f0.jpg)
 
-A、100%
-B、50%
-C.25%
-D、0%
+![Image](images/img_7aa11606-0c37-499f-b3da-3a86dd713861.jpg)
 
-让这件事在 𝕏 上疯传。我们走吧👏
+[🔗 查看原帖](https://twitter.com/frenchmonster7/status/2030162963311776021)
 
-[🔗 查看原帖](https://twitter.com/RightScopee/status/2030462709188235740)
+---
+
+### [SonkoOfficiel](https://twitter.com/SonkoOfficiel/status/2030349796502802718)
+
+**发布时间:** 2026-03-07 18:28:08 | ❤️ 15852
+
+> J’ai passé une excellente journée dans les champs. Il n’y a rien de plus vrai que l’agriculture.
+Retournons-y tous !
+Le pari de la souveraineté est d’abord un pari individuel. https://t.co/alxCZfE2Dp
+
+> 🇨🇳 译文：我在田野里度过了美好的一天。没有什么比农业更真实的了。
+我们都回去吧！
+对主权的赌注首先是个人的赌注。 https://t.co/alxCZfE2Dp
+
+![Image](images/img_bf0e5b65-8e8a-49b1-b5e8-028d51f358ab.jpg)
+
+![Image](images/img_1b9cae79-0ebc-49ac-8acd-57978a317426.jpg)
+
+![Image](images/img_9e1b649a-3d2c-4309-bfc6-d0b4e49d1592.jpg)
+
+![Image](images/img_03e4b0d4-01af-4d8d-a599-948b60d100e5.jpg)
+
+[🔗 查看原帖](https://twitter.com/SonkoOfficiel/status/2030349796502802718)
+
+---
+
+### [techbharat](https://twitter.com/techbharat/status/2030515792882843831)
+
+**发布时间:** 2026-03-08 05:27:44 | ❤️ 6800
+
+> I miss notification LEDs of older Android phones 🥲 https://t.co/OvPyM8votp
+
+> 🇨🇳 译文：我怀念旧款 Android 手机的通知 LED 🥲 https://t.co/OvPyM8votp
+
+![Image](images/img_cc0aa320-dbae-4016-a951-44081e3df827.jpg)
+
+[🔗 查看原帖](https://twitter.com/techbharat/status/2030515792882843831)
+
+---
+
+### [DtDt666](https://twitter.com/DtDt666/status/2030102929127133610)
+
+**发布时间:** 2026-03-07 02:07:10 | ❤️ 4862
+
+> 要开始“养龙虾”（使OpenClaw），核心是完成部署、配置、训练三步，将其变成一个懂你需求、能帮你干活的专属AI智能体。
+
+以下是2026年最新的详细使用指南。
+
+一、使用前准备
+
+在开始前你需要准备好以下三样东西：
+
+1. 运行环境：一台普通的电脑（Windows 10+/macOS 10.15+/Linux）或一台云服务器。
+
+2. AI模型（“龙虾的大脑”）：需要一个大模型的API Key来驱动OpenClaw。你可以选择：
+
+   · 国内模型（推荐新手）：MiniMax（免费额度多）、Kimi（访问快）、智谱AI（性价比高）等。
+
+   · 国际模型：Claude、GPT-4等（能力更强但成本较高且可能访问不稳定）。
+
+3. 通讯渠道（“指挥龙虾的麦克风”）：一个你常用的即时通讯工具，用于向龙虾发送指令。
+
+最常用的是飞书、Telegram、WhatsApp、Discord等。
+
+二、选择并完成部署（多种方案）
+
+你可以根据自身情况选择最合适的一种方式开始。
+
+方案一：桌面一键安装（最推荐新手）
+
+· 适合人群：零代码基础想快速体验的个人用户。
+· 核心优点：无需配置服务器和环境，下载即用。
+· 大致成本与复杂度：零成本（仅模型API费用），复杂度极低。
+
+方案二：云端托管服务（最省心）
+
+· 适合人群：不想维护服务器希望7×24小时在线的用户。
+· 核心优点：免部署、免运维，开箱即用，账单可控。
+· 大致成本与复杂度：订阅制（如Kimi Claw需199元/月套餐），复杂度低。
+
+方案三：云服务器部署（最灵活可控）
+
+· 适合人群：开发者、技术爱好者或企业用户。
+· 核心优点：完全自主控制，可深度定制，数据私密性高。
+· 大致成本与复杂度：服务器成本（约2美元/月起），复杂度中高。
+
+1. 桌面一键安装（以OneClaw为例）
+   这是对小白最友好的方式，完全图形化操作。
+
+· 下载客户端：访问OneClaw官网，根据你的系统（Mac/Windows）下载对应的安装包（.dmg或.exe文件）。
+
+· 安装并运行：双击安装包按提示完成安装，打开软件。
+
+· 配置API Key：在软件内选择你准备好的大模型（如MiniMax）并粘贴对应的API Key。
+
+· 连接通讯工具：按照软件指引绑定你的飞书或Telegram账号。
+
+  完成以上步骤，你就可以在飞书或Telegram里直接@你的龙虾机器人开始使用了。
+
+2. 云端托管服务（以Kimi Claw/MaxClaw为例）
+   大厂提供的托管服务，彻底告别部署烦恼。
+
+· Kimi Claw：在Kimi机器人官网登录后点击“创建Kimi Claw”，选择一键部署即可。需订阅Allegretto及以上套餐（199元/月）。
+
+· MaxClaw：Minimax推出的服务，集成在Minimax Agent网页端，点击即用，费用包含在基础订阅中，无额外API账单焦虑。
+
+  这类服务部署后，你会获得一个Web控制台或直接集成在IM工具中的机器人，无需关心服务器维护。
+
+3. 云服务器部署（通用方法）
+   如果你想拥有完全的控制权，可以自行在云服务器（如阿里云、Zeabur）上部署。
+
+· 准备服务器：购买一台云服务器（推荐配置2核4G，系统选Ubuntu）。
+
+· 安装Docker：在服务器上执行命令安装Docker环境。
+
+· 运行OpenClaw：使用一行Docker命令即可启动OpenClaw服务。
+
+· 配置反向代理（可选）：为服务绑定域名，方便访问。
+
+  此方案需要一定的命令行操作基础，但灵活性最高。
+
+三、核心配置：让龙虾“认识你”并“学会干活”
+
+部署成功只是第一步，接下来的配置决定了你的龙虾是否好用。
+
+1. 身份录入（永久记忆）：这是“养”的核心。你需要通过对话告诉龙虾你的身份、习惯和需求。发送类似以下信息并强调“请永久记住”：
+
+   “我是[你的职业，如自媒体创作者]，日常需要你帮我[整理资料、撰写初稿、管理日程]。我习惯简洁直接的回复，每天上午9点向我汇报待办事项。以上内容请永久记住。”
+
+2. 安装技能（Skills）：技能是龙虾的“手脚”，决定了它能干什么。新手必装的核心技能包括：
+
+   · Capability Evolver / Self-Improving Agent：让龙虾能自我优化和复盘，越用越聪明。
+
+   · Agent Browser：让龙虾可以操作浏览器，自动查询信息、填写表格。
+
+   · Summarize：快速总结PDF、网页、长文档的核心内容。
+
+   · Find Skills：当你需要新功能时，可以让它自己去找合适的技能。
+
+     安装方式：在OpenClaw的Web控制台进入“ClawHub市场”，搜索技能名一键安装；或通过命令行安装。
+
+3. 对接工作渠道：将龙虾接入你日常工作的IM工具（如飞书），实现无缝指挥。
+
+   · 以飞书为例：在飞书开放平台创建“企业自建应用”，开启机器人权限和接收消息权限，获取App ID和App Secret，然后在OpenClaw配置页填写即可。
+
+四、开始使用：像指挥员工一样下达指令
+
+配置完成后，你就可以像和同事聊天一样向你的龙虾下达自然语言指令了。例如：
+
+· 办公自动化：“把我邮箱里所有来自‘客户’的未读邮件，摘要整理成一个表格发到飞书群里。”
+
+· 信息处理：“监控A、B、C三个竞品的官网和社交媒体，每天下午5点给我一份动态摘要。”
+
+· 内容创作：“根据我昨天整理的会议纪要，生成一份公众号推文大纲，要求风格活泼。”
+
+· 定时任务：“每周一早上9点提醒我更新项目周报。”
+
+五、进阶玩法与注意事项
+
+· 进阶玩法：
+  · 自动化工作流：结合n8n等工具，让龙虾自动处理重复流程，如每日数据抓取、报告生成。
+
+  · 多智能体协作：像傅盛一样创建多个具有不同专长的龙虾，让它们协同工作（如一个负责调研，一个负责写作，一个负责发布）。
+
+  · 商业应用：提供部署、配置服务，或利用龙虾进行量化交易、社群运营等。
+
+· 注意事项：
+  · 安全第一：务必在可控环境中使用，为龙虾设置操作权限白名单，避免执行危险命令。推荐使用Docker沙箱模式运行。
+
+  · 控制成本：如果使用按Token收费的API（如GPT-4），注意设置用量监控，或直接选用MaxClaw等固定订阅制服务。
+
+  · 从简开始：不要一次性安装太多技能。从一个核心需求（如整理文件）开始，逐步磨合和扩展。
+
+兄弟们，“养龙虾”是一个从部署到调教的持续过程。
+选择适合你的方案快速启动，通过清晰的“身份设定”和必要的“技能装备”来训练它，你就能获得一个7×24小时在线的专属数字员工，真正将AI能力转化为生产力。
+
+> 🇨🇳 译文：要开始“养龙虾”（使OpenClaw），核心是完成部署、配置、训练三步，将其变成一个懂你需求、能帮你干活的专属AI智能体。
+
+以下是2026年最新的详细使用指南。
+
+一、使用前准备
+
+在开始前你需要准备好以下三样东西：
+
+1. 运行环境：一台普通的电脑（Windows 10+/macOS 10.15+/Linux）或一台云服务器。
+
+2. AI模型（“龙虾的大脑”）：需要一个大模型的API Key来驱动OpenClaw。你可以选择：
+
+   · 国内模型（推荐新手）：MiniMax（免费额度多）、Kimi（访问快）、智谱AI（性价比高）等。
+
+   · 国际模型：Claude、GPT-4等（能力更强但成本较高且可能访问不稳定）。
+
+3. 通讯渠道（“指挥龙虾的麦克风”）：一个你常用的即时通讯工具，用于向龙虾发送指令。
+
+最常用的是飞书、Telegram、WhatsApp、Discord等。
+
+二、选择并完成部署（多种方案）
+
+你可以根据自身情况选择最合适的一种方式开始。
+
+方案一：桌面一键安装（最推荐新手）
+
+· 适合人群：零代码基础想快速体验的个人用户。
+· 核心优点：无需配置服务器和环境，下载即用。
+· 大致成本与复杂度：零成本（仅模型API费用），复杂度极低。
+
+方案二：云端托管服务（最省心）
+
+· 适合人群：不想维护服务器希望7×24小时在线的用户。
+· 核心优点：免部署、免运维，开箱即用，账单可控。
+· 大致成本与复杂度：订阅制（如Kimi Claw需199元/月套餐），复杂度低。
+
+方案三：云服务器部署（最灵活可控）
+
+· 适合人群：开发者、技术爱好者或企业用户。
+· 核心优点：完全自主控制，可深度定制，数据私密性高。
+· 大致成本与复杂度：服务器成本（约2美元/月起），复杂度中高。
+
+1. 桌面一键安装（以OneClaw为例）
+   这是对小白最友好的方式，完全图形化操作。
+
+· 下载客户端：访问OneClaw官网，根据你的系统（Mac/Windows）下载对应的安装包（.dmg或.exe文件）。
+
+· 安装并运行：双击安装包按提示完成安装，打开软件。
+
+· 配置API Key：在软件内选择你准备好的大模型（如MiniMax）并粘贴对应的API Key。
+
+· 连接通讯工具：按照软件指引绑定你的飞书或Telegram账号。
+
+  完成以上步骤，你就可以在飞书或Telegram里直接@你的龙虾机器人开始使用了。
+
+2. 云端托管服务（以Kimi Claw/MaxClaw为例）
+   大厂提供的托管服务，彻底告别部署烦恼。
+
+· Kimi Claw：在Kimi机器人官网登录后点击“创建Kimi Claw”，选择一键部署即可。需订阅Allegretto及以上套餐（199元/月）。
+
+· MaxClaw：Minimax推出的服务，集成在Minimax Agent网页端，点击即用，费用包含在基础订阅中，无额外API账单焦虑。
+
+  这类服务部署后，你会获得一个Web控制台或直接集成在IM工具中的机器人，无需关心服务器维护。
+
+3. 云服务器部署（通用方法）
+   如果你想拥有完全的控制权，可以自行在云服务器（如阿里云、Zeabur）上部署。
+
+· 准备服务器：购买一台云服务器（推荐配置2核4G，系统选Ubuntu）。
+
+· 安装Docker：在服务器上执行命令安装Docker环境。
+
+· 运行OpenClaw：使用一行Docker命令即可启动OpenClaw服务。
+
+· 配置反向代理（可选）：为服务绑定域名，方便访问。
+
+  此方案需要一定的命令行操作基础，但灵活性最高。
+
+三、核心配置：让龙虾“认识你”并“学会干活”
+
+部署成功只是第一步，接下来的配置决定了你的龙虾是否好用。
+
+1. 身份录入（永久记忆）：这是“养”的核心。你需要通过对话告诉龙虾你的身份、习惯和需求。发送类似以下信息并强调“请永久记住”：
+
+   “我是[你的职业，如自媒体创作者]，日常需要你帮我[整理资料、撰写初稿、管理日程]。我习惯简洁直接的回复，每天上午9点向我汇报待办事项。以上内容请永久记住。”
+
+2. 安装技能（Skills）：技能是龙虾的“手脚”，决定了它能干什么。新手必装的核心技能包括：
+
+   · Capability Evolver / Self-Improving Agent：让龙虾能自我优化和复盘，越用越聪明。
+
+   · Agent Browser：让龙虾可以操作浏览器，自动查询信息、填写表格。
+
+   · Summarize：快速总结PDF、网页、长文档的核心内容。
+
+   · Find Skills：当你需要新功能时，可以让它自己去找合适的技能。
+
+     安装方式：在OpenClaw的Web控制台进入“ClawHub市场”，搜索技能名一键安装；或通过命令行安装。
+
+3. 对接工作渠道：将龙虾接入你日常工作的IM工具（如飞书），实现无缝指挥。
+
+   · 以飞书为例：在飞书开放平台创建“企业自建应用”，开启机器人权限和接收消息权限，获取App ID和App Secret，然后在OpenClaw配置页填写即可。
+
+四、开始使用：像指挥员工一样下达指令
+
+配置完成后，你就可以像和同事聊天一样向你的龙虾下达自然语言指令了。例如：
+
+· 办公自动化：“把我邮箱里所有来自‘客户’的未读邮件，摘要整理成一个表格发到飞书群里。”
+
+· 信息处理：“监控A、B、C三个竞品的官网和社交媒体，每天下午5点给我一份动态摘要。”
+
+· 内容创作：“根据我昨天整理的会议纪要，生成一份公众号推文大纲，要求风格活泼。”
+
+· 定时任务：“每周一早上9点提醒我更新项目周报。”
+
+五、进阶玩法与注意事项
+
+· 进阶玩法：
+  · 自动化工作流：结合n8n等工具，让龙虾自动处理重复流程，如每日数据抓取、报告生成。
+
+  · 多智能体协作：像傅盛一样创建多个具有不同专长的龙虾，让它们协同工作（如一个负责调研，一个负责写作，一个负责发布）。
+
+  · 商业应用：提供部署、配置服务，或利用龙虾进行量化交易、社群运营等。
+
+· 注意事项：
+  · 安全第一：务必在可控环境中使用，为龙虾设置操作权限白名单，避免执行危险命令。推荐使用Docker沙箱模式运行。
+
+  · 控制成本：如果使用按Token收费的API（如GPT-4），注意设置用量监控，或直接选用MaxClaw等固定订阅制服务。
+
+  · 从简开始：不要一次性安装太多技能。从一个核心需求（如整理文件）开始，逐步磨合和扩展。
+
+兄弟们，“养龙虾”是一个从部署到调教的持续过程。
+选择适合你的方案快速启动，通过清晰的“身份设定”和必要的“技能装备”来训练它，你就能获得一个7×24小时在线的专属数字员工，真正将AI能力转化为生产力。
+
+![Image](images/img_b3935f72-b16f-4f7d-951c-fe15a9dc4294.jpg)
+
+[🔗 查看原帖](https://twitter.com/DtDt666/status/2030102929127133610)
+
+---
+
+### [NATERERUN](https://twitter.com/NATERERUN/status/2030097531045097970)
+
+**发布时间:** 2026-03-07 01:45:43 | ❤️ 14442
+
+> This is pure laziness, you need ai to twerk for you ??? https://t.co/oKx01Zz2OM
+
+> 🇨🇳 译文：这纯粹是懒惰，你需要人工智能来帮你扭臀？？？ https://t.co/oKx01Zz2OM
+
+[🔗 查看原帖](https://twitter.com/NATERERUN/status/2030097531045097970)
+
+---
+
+### [sasquatchvlogtv](https://twitter.com/sasquatchvlogtv/status/2030351992736845951)
+
+**发布时间:** 2026-03-07 18:36:51 | ❤️ 15950
+
+> Best use of Ai 🤣 https://t.co/xXzfNvxrMH
+
+> 🇨🇳 译文：充分利用艾🤣 https://t.co/xXzfNvxrMH
+
+[🔗 查看原帖](https://twitter.com/sasquatchvlogtv/status/2030351992736845951)
 
